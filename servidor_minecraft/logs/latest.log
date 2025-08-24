@@ -9480,3 +9480,22 @@ java.lang.NullPointerException: Element not found: amount
 [24Aug2025 22:43:55.784] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2291ms or 45 ticks behind
 [24Aug2025 22:44:14.450] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3707ms or 74 ticks behind
 [24Aug2025 22:48:59.491] [Server thread/INFO] [STDOUT/]: [teamrazor.aeroblender.Aeroblender:getAetherNamespacedRules:55]: com.google.common.collect.ImmutableMap$Builder@655c70e6
+[24Aug2025 23:22:02.159] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SUPATA123[/127.165.82.191:38045] logged in with entity id 3009 at (-2.300000011920929, 118.0, 67.30000001192093)
+[24Aug2025 23:22:02.281] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/multiplayer/PlayerInfo for invalid dist DEDICATED_SERVER
+[24Aug2025 23:22:02.281] [Server thread/ERROR] [ModernFix/]: Skipping entity ID sync for com.Polarice3.Goety.common.entities.ally.Doppelganger: java.lang.RuntimeException: Attempted to load class net/minecraft/client/multiplayer/PlayerInfo for invalid dist DEDICATED_SERVER
+[24Aug2025 23:22:02.570] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player SUPATA123
+[24Aug2025 23:22:02.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 joined the game
+[24Aug2025 23:22:04.280] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2138ms or 42 ticks behind
+[24Aug2025 23:22:29.228] [Worker-Main-42/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[24Aug2025 23:22:29.233] [Worker-Main-42/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[24Aug2025 23:22:29.235] [Worker-Main-42/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[24Aug2025 23:22:32.281] [Worker-Main-43/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[24Aug2025 23:22:32.283] [Worker-Main-43/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[24Aug2025 23:22:32.283] [Worker-Main-43/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[24Aug2025 23:22:36.783] [Worker-Main-42/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[24Aug2025 23:22:37.391] [Worker-Main-41/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[24Aug2025 23:22:37.429] [Worker-Main-42/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[24Aug2025 23:22:37.432] [Worker-Main-42/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[24Aug2025 23:22:43.346] [Worker-Main-42/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[24Aug2025 23:22:43.371] [Worker-Main-41/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[24Aug2025 23:23:04.720] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/2903, l='ServerLevel[world]', x=89.82, y=120.41, z=84.96] died: Undead Knight was slain by Dread Hound
