@@ -9472,3 +9472,23 @@ java.lang.NullPointerException: Element not found: amount
 [25Aug2025 01:07:24.479] [Server thread/WARN] [ModernFix/]: Dedicated server took 148.938 seconds to load
 [25Aug2025 01:07:26.753] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2167ms or 43 ticks behind
 [25Aug2025 01:12:26.820] [Server thread/INFO] [STDOUT/]: [teamrazor.aeroblender.Aeroblender:getAetherNamespacedRules:55]: com.google.common.collect.ImmutableMap$Builder@3d94e12f
+[25Aug2025 01:30:29.147] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SUPATA123[/127.165.82.191:41873] logged in with entity id 2980 at (-4.699999988079071, 118.0, 67.30000001192093)
+[25Aug2025 01:30:29.188] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/multiplayer/PlayerInfo for invalid dist DEDICATED_SERVER
+[25Aug2025 01:30:29.188] [Server thread/ERROR] [ModernFix/]: Skipping entity ID sync for com.Polarice3.Goety.common.entities.ally.Doppelganger: java.lang.RuntimeException: Attempted to load class net/minecraft/client/multiplayer/PlayerInfo for invalid dist DEDICATED_SERVER
+[25Aug2025 01:30:29.425] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player SUPATA123
+[25Aug2025 01:30:29.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 joined the game
+[25Aug2025 01:30:31.488] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
+[25Aug2025 01:30:51.901] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: grillo1320[/127.48.216.60:45979] logged in with entity id 3046 at (6.5, 119.0, -2.5)
+[25Aug2025 01:30:52.097] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player grillo1320
+[25Aug2025 01:30:52.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 joined the game
+[25Aug2025 01:30:52.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [Blade MoveSets]
+[25Aug2025 01:30:52.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [Dungeons And Combat]
+[25Aug2025 01:30:52.455] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has completed the challenge [The Undead]
+[25Aug2025 01:30:52.465] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [Ice and Fire]
+[25Aug2025 01:30:52.469] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [T.O Magic 'n Extras]
+[25Aug2025 01:30:59.951] [Worker-Main-30/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[25Aug2025 01:31:00.091] [Worker-Main-32/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[25Aug2025 01:31:10.165] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[25Aug2025 01:34:58.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [Suit Up]
+[25Aug2025 01:34:58.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [I Found It Underground]
+[25Aug2025 01:34:58.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [Apothic Affixes]
