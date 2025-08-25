@@ -9505,3 +9505,15 @@ java.lang.NullPointerException: Element not found: amount
 [25Aug2025 01:43:14.270] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: grillo1320[/127.48.216.60:50743] logged in with entity id 5270 at (6.5, 119.0, -2.5)
 [25Aug2025 01:43:14.440] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player grillo1320
 [25Aug2025 01:43:14.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 joined the game
+[25Aug2025 01:45:59.224] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SUPATA123 moved wrongly!
+[25Aug2025 01:46:01.878] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SUPATA123 moved wrongly!
+[25Aug2025 01:46:03.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SUPATA123 moved wrongly!
+[25Aug2025 01:46:15.578] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SUPATA123 moved wrongly!
+[25Aug2025 01:46:20.677] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SUPATA123 moved wrongly!
+[25Aug2025 01:50:48.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SUPATA123> apreta z
+[25Aug2025 01:51:10.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SUPATA123> te va bien?
+[25Aug2025 01:51:19.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <grillo1320> si
+[25Aug2025 01:54:35.075] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[25Aug2025 01:54:41.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was shot by Pillager
+[25Aug2025 01:54:42.473] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Aug2025 01:54:42.474] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty

@@ -17,12 +17,6 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-25 01:30:53 +0000"
-    },
-    "done": false
-  },
   "ars_nouveau:recipes/misc/gilded_sourcestone_large_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-08-25 01:30:52 +0000"
@@ -116,12 +110,6 @@
   "irons_spellbooks:grant_patchouli": {
     "criteria": {
       "tick": "2025-08-25 01:30:52 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/iron_chestplate_repairing": {
-    "criteria": {
-      "has_iron_chestplate": "2025-08-25 01:34:58 +0000"
     },
     "done": true
   },
@@ -221,12 +209,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-25 01:30:53 +0000"
-    },
-    "done": false
-  },
   "ars_additions:recipes/misc/crafting/chains/sourcestone_chain": {
     "criteria": {
       "has_journal": "2025-08-25 01:30:52 +0000"
@@ -260,12 +242,6 @@
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_small_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-08-25 01:30:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_chestplate": "2025-08-25 01:34:58 +0000"
     },
     "done": true
   },
@@ -304,12 +280,6 @@
       "has_journal": "2025-08-25 01:30:52 +0000"
     },
     "done": true
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-25 01:30:53 +0000"
-    },
-    "done": false
   },
   "ars_nouveau:recipes/misc/falseweave": {
     "criteria": {
@@ -448,12 +418,6 @@
       "has_items": "2025-08-25 01:30:52 +0000"
     },
     "done": true
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-25 01:30:53 +0000"
-    },
-    "done": false
   },
   "ars_additions:recipes/decorations/crafting/stonecutter/polished_sourcestone_button_0": {
     "criteria": {
@@ -677,13 +641,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-08-25 01:35:09 +0000",
-      "log_spam_fixer": "2025-08-25 01:30:53 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/ritual_restoration": {
     "criteria": {
       "has_journal": "2025-08-25 01:30:52 +0000"
@@ -900,12 +857,6 @@
     },
     "done": true
   },
-  "tombstone:adventure/root": {
-    "criteria": {
-      "auto": "2025-08-25 01:30:53 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_mosaic_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-08-25 01:30:52 +0000"
@@ -1020,12 +971,6 @@
     },
     "done": true
   },
-  "biomesoplenty:biomesoplenty/all_biomes": {
-    "criteria": {
-      "scrubland": "2025-08-25 01:30:53 +0000"
-    },
-    "done": false
-  },
   "ars_nouveau:recipes/misc/water_essence_to_obsidian": {
     "criteria": {
       "has_journal": "2025-08-25 01:30:52 +0000"
@@ -1047,12 +992,6 @@
   "ars_nouveau:recipes/misc/blue_archwood_wood": {
     "criteria": {
       "has_journal": "2025-08-25 01:30:52 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:affix/root": {
-    "criteria": {
-      "sword": "2025-08-25 01:34:58 +0000"
     },
     "done": true
   },
@@ -1398,12 +1337,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-25 01:30:53 +0000"
-    },
-    "done": false
-  },
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_small_bricks_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-08-25 01:30:52 +0000"
@@ -1449,18 +1382,6 @@
   "ars_nouveau:recipes/misc/potion_jar": {
     "criteria": {
       "has_journal": "2025-08-25 01:30:52 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-25 01:30:53 +0000"
-    },
-    "done": false
-  },
-  "biomesoplenty:biomesoplenty/root": {
-    "criteria": {
-      "scrubland": "2025-08-25 01:30:53 +0000"
     },
     "done": true
   },
@@ -1512,12 +1433,6 @@
     },
     "done": true
   },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-25 01:30:53 +0000"
-    },
-    "done": false
-  },
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_large_bricks_slab": {
     "criteria": {
       "has_journal": "2025-08-25 01:30:52 +0000"
@@ -1563,12 +1478,6 @@
   "ars_additions:recipes/misc/clear_xp_jar": {
     "criteria": {
       "has_journal": "2025-08-25 01:30:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_nugget_from_smelting": {
-    "criteria": {
-      "has_iron_chestplate": "2025-08-25 01:34:58 +0000"
     },
     "done": true
   },
@@ -1674,12 +1583,6 @@
     },
     "done": true
   },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-25 01:30:53 +0000"
-    },
-    "done": false
-  },
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_alternating_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-08-25 01:30:52 +0000"
@@ -1697,12 +1600,6 @@
       "has_items": "2025-08-25 01:30:52 +0000"
     },
     "done": true
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-25 01:30:53 +0000"
-    },
-    "done": false
   },
   "goety_spillage:root": {
     "criteria": {
@@ -1739,12 +1636,6 @@
       "has_journal": "2025-08-25 01:30:52 +0000"
     },
     "done": true
-  },
-  "incendium:technical/using/ragnarok": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-25 01:30:53 +0000"
-    },
-    "done": false
   },
   "ars_nouveau:recipes/misc/orange_sbed": {
     "criteria": {
@@ -2348,12 +2239,6 @@
     },
     "done": true
   },
-  "incendium:technical/using/shield": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-25 01:30:53 +0000"
-    },
-    "done": false
-  },
   "aquaculture:recipes/misc/red_mushroom_from_fish": {
     "criteria": {
       "has_items": "2025-08-25 01:30:52 +0000"
@@ -2395,12 +2280,6 @@
       "has_journal": "2025-08-25 01:30:52 +0000"
     },
     "done": true
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-25 01:30:53 +0000"
-    },
-    "done": false
   },
   "ars_instrumentum:recipes/misc/arcane_applicator": {
     "criteria": {
@@ -2480,12 +2359,6 @@
     },
     "done": true
   },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-25 01:30:53 +0000"
-    },
-    "done": false
-  },
   "ars_nouveau:recipes/building_blocks/sourcestone_large_bricks_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-08-25 01:30:52 +0000"
@@ -2495,12 +2368,6 @@
   "minecraft:recipes/combat/ankylosaurus_chestplate": {
     "criteria": {
       "has_ankylosaurus_scute": "2025-08-25 01:30:52 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:affix/chests": {
-    "criteria": {
-      "sword": "2025-08-25 01:34:58 +0000"
     },
     "done": true
   },
@@ -2527,12 +2394,6 @@
       "has_journal": "2025-08-25 01:30:52 +0000"
     },
     "done": true
-  },
-  "incendium:technical/scroll_of_returning": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-25 01:30:53 +0000"
-    },
-    "done": false
   },
   "ars_nouveau:recipes/building_blocks/stripped_red_archwood_wood": {
     "criteria": {
@@ -2619,21 +2480,9 @@
     },
     "done": true
   },
-  "incendium:technical/using/trailblazer": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-25 01:30:53 +0000"
-    },
-    "done": false
-  },
   "ars_nouveau:recipes/misc/sourcestone_alternating_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-08-25 01:30:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_nugget_from_blasting": {
-    "criteria": {
-      "has_iron_chestplate": "2025-08-25 01:34:58 +0000"
     },
     "done": true
   },
@@ -2695,6 +2544,1065 @@
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_mosaic_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-08-25 01:30:52 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-25 01:30:53 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-25 01:30:53 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-25 01:30:53 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-25 01:30:53 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-08-25 01:35:09 +0000",
+      "log_spam_fixer": "2025-08-25 01:30:53 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2025-08-25 01:30:53 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "scrubland": "2025-08-25 01:30:53 +0000",
+      "mediterranean_forest": "2025-08-25 01:51:16 +0000",
+      "lavender_field": "2025-08-25 01:51:36 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-25 01:30:53 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-25 01:30:53 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "scrubland": "2025-08-25 01:30:53 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-25 01:30:53 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-25 01:30:53 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-25 01:30:53 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/ragnarok": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-25 01:30:53 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/shield": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-25 01:30:53 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-25 01:30:53 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-25 01:30:53 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/scroll_of_returning": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-25 01:30:53 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-25 01:30:53 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/combat/iron_chestplate_repairing": {
+    "criteria": {
+      "has_iron_chestplate": "2025-08-25 01:34:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-08-25 01:34:58 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/root": {
+    "criteria": {
+      "sword": "2025-08-25 01:34:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_chestplate": "2025-08-25 01:34:58 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/chests": {
+    "criteria": {
+      "sword": "2025-08-25 01:34:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_chestplate": "2025-08-25 01:34:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-08-25 01:49:46 +0000"
+    },
+    "done": true
+  },
+  "vc_gliders:recipes/transportation/paraglider_iron": {
+    "criteria": {
+      "has_crafting_table": "2025-08-25 01:52:26 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/spruce_plank_spear_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 01:52:23 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/spruce_plank_broad_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 01:52:23 +0000"
+    },
+    "done": true
+  },
+  "vc_gliders:recipes/misc/reinforced_paper": {
+    "criteria": {
+      "has_crafting_table": "2025-08-25 01:52:26 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/bow_repairing": {
+    "criteria": {
+      "has_bow": "2025-08-25 01:49:46 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_cube": {
+    "criteria": {
+      "hasPlanks": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "vc_gliders:recipes/transportation/paraglider_gold": {
+    "criteria": {
+      "has_crafting_table": "2025-08-25 01:52:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/spruce_plank_mace_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 01:52:23 +0000"
+    },
+    "done": true
+  },
+  "vc_gliders:recipes/transportation/paraglider_netherite": {
+    "criteria": {
+      "has_crafting_table": "2025-08-25 01:52:26 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/spruce_plank_dagger_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 01:52:23 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_greatsword": {
+    "criteria": {
+      "has_wood": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/turn_table": {
+    "criteria": {
+      "minecraft:planks": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/hunter/crucifix": {
+    "criteria": {
+      "planks": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/oak_plank_sickle_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-08-25 01:52:23 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/cushion/magenta_cushion": {
+    "criteria": {
+      "has_planks": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/wooden_tower_shield": {
+    "criteria": {
+      "has_planks": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/oak_plank_katana_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "vc_gliders:recipes/misc/reinforced_paper_gold": {
+    "criteria": {
+      "has_crafting_table": "2025-08-25 01:52:26 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_battleaxe": {
+    "criteria": {
+      "has_wood": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2025-08-25 01:49:46 +0000"
+    },
+    "done": true
+  },
+  "vc_gliders:recipes/misc/reinforced_paper_iron": {
+    "criteria": {
+      "has_crafting_table": "2025-08-25 01:52:26 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_arrow": {
+    "criteria": {
+      "has_bow": "2025-08-25 01:49:46 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/notice_board": {
+    "criteria": {
+      "minecraft:planks": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_arrow": {
+    "criteria": {
+      "has_bow": "2025-08-25 01:49:46 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_dagger": {
+    "criteria": {
+      "has_wood": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-25 01:52:23 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/cushion/green_cushion": {
+    "criteria": {
+      "has_planks": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/alchemy_table": {
+    "criteria": {
+      "has_planks": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_tomahawk": {
+    "criteria": {
+      "has_wood": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/general/altar_cleansing": {
+    "criteria": {
+      "has_vampire_book": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/oak_plank_dancer_s_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_scythe": {
+    "criteria": {
+      "has_wood": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/cushion/gray_cushion": {
+    "criteria": {
+      "has_planks": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/netherite_arrow": {
+    "criteria": {
+      "has_bow": "2025-08-25 01:49:46 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/spruce_plank_dancer_s_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 01:52:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/spruce_window": {
+    "criteria": {
+      "has_ingredient": "2025-08-25 01:52:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-25 01:52:23 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/cushion/lime_cushion": {
+    "criteria": {
+      "has_planks": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-08-25 01:51:06 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_boomerang": {
+    "criteria": {
+      "has_wood": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/clock_block": {
+    "criteria": {
+      "minecraft:planks": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_arrow": {
+    "criteria": {
+      "has_bow": "2025-08-25 01:49:46 +0000"
+    },
+    "done": true
+  },
+  "vc_gliders:recipes/misc/copper_upgrade": {
+    "criteria": {
+      "has_crafting_table": "2025-08-25 01:52:26 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/decorations/starlit_factory_update_fix": {
+    "criteria": {
+      "has_item": "2025-08-25 01:52:26 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/spruce_plank_cutlass_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 01:52:23 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/steel_sword": {
+    "criteria": {
+      "has_iron_sword": "2025-08-25 01:49:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/sc_manual": {
+    "criteria": {
+      "has_wood": "2025-08-25 01:51:06 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/cushion/purple_cushion": {
+    "criteria": {
+      "has_planks": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_longbow": {
+    "criteria": {
+      "has_wood": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_glaive": {
+    "criteria": {
+      "has_wood": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/spruce_plank_claymore_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 01:52:23 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/cushion/yellow_cushion": {
+    "criteria": {
+      "has_planks": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_halberd": {
+    "criteria": {
+      "has_wood": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/stick": {
+    "criteria": {
+      "has_ingredient": "2025-08-25 01:51:06 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/speaker_block": {
+    "criteria": {
+      "minecraft:planks": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-08-25 01:51:06 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/oak_plank_great_hammer_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/cushion/orange_cushion": {
+    "criteria": {
+      "has_planks": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:root": {
+    "criteria": {
+      "crafting_table": "2025-08-25 01:52:26 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_heavy_crossbow": {
+    "criteria": {
+      "has_wood": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/oak_plank_broad_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pulley": {
+    "criteria": {
+      "minecraft:planks": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "vc_gliders:recipes/misc/reinforced_paper_netherite": {
+    "criteria": {
+      "has_crafting_table": "2025-08-25 01:52:26 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/cushion/brown_cushion": {
+    "criteria": {
+      "has_planks": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-08-25 01:52:26 +0000"
+    },
+    "done": true
+  },
+  "vc_gliders:recipes/misc/reinforced_paper_diamond": {
+    "criteria": {
+      "has_crafting_table": "2025-08-25 01:52:26 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/cushion/blue_cushion": {
+    "criteria": {
+      "has_planks": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/wooden_basic_shield": {
+    "criteria": {
+      "has_planks": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/spruce_plank_scythe_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 01:52:23 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_saber": {
+    "criteria": {
+      "has_wood": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_javelin": {
+    "criteria": {
+      "has_wood": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_quarterstaff": {
+    "criteria": {
+      "has_wood": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_club": {
+    "criteria": {
+      "has_wood_log": "2025-08-25 01:51:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-08-25 01:52:23 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/spruce_plank_battle_staff_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 01:52:23 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/general/fire_place": {
+    "criteria": {
+      "has_logs": "2025-08-25 01:51:06 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/spruce_plank_sickle_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 01:52:23 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_sword_repairing": {
+    "criteria": {
+      "has_iron_sword": "2025-08-25 01:49:46 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/cushion/black_cushion": {
+    "criteria": {
+      "has_planks": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_throwing_knife": {
+    "criteria": {
+      "has_wood": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-08-25 01:49:46 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_sapling": "2025-08-25 01:51:31 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_flanged_mace": {
+    "criteria": {
+      "has_wood": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-08-25 01:51:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_lance": {
+    "criteria": {
+      "has_wood": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_longsword": {
+    "criteria": {
+      "has_wood": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bed_from_feather_block": {
+    "criteria": {
+      "minecraft:planks": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/oak_plank_cutlass_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/oak_plank_battle_staff_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-08-25 01:51:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/earplugs": {
+    "criteria": {
+      "has_item": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_spruce": {
+    "criteria": {
+      "has_item": "2025-08-25 01:52:23 +0000"
+    },
+    "done": true
+  },
+  "vc_gliders:recipes/transportation/paraglider_wood": {
+    "criteria": {
+      "has_crafting_table": "2025-08-25 01:52:26 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_katana": {
+    "criteria": {
+      "has_wood": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/oak_plank_claymore_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_battle_hammer": {
+    "criteria": {
+      "has_wood": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/oak_plank_mace_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/bat_cage": {
+    "criteria": {
+      "has_planks": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/cushion/light_blue_cushion": {
+    "criteria": {
+      "has_planks": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/cushion/pink_cushion": {
+    "criteria": {
+      "has_planks": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/oak_plank_glaive_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_spear": {
+    "criteria": {
+      "has_wood": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/lock_block": {
+    "criteria": {
+      "minecraft:planks": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/crafting_blueprint": {
+    "criteria": {
+      "has_item": "2025-08-25 01:52:26 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/cushion/white_cushion": {
+    "criteria": {
+      "has_planks": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-08-25 01:52:23 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/spruce_plank_flail_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 01:52:23 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/general/throne": {
+    "criteria": {
+      "has_planks": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_warhammer": {
+    "criteria": {
+      "has_wood": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/spruce_plank_glaive_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 01:52:23 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_log": "2025-08-25 01:51:06 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_parrying_dagger": {
+    "criteria": {
+      "has_wood": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_rapier": {
+    "criteria": {
+      "has_wood": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/plant_fiber": {
+    "criteria": {
+      "has_moss": "2025-08-25 01:51:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "vc_gliders:recipes/misc/nether_upgrade": {
+    "criteria": {
+      "has_crafting_table": "2025-08-25 01:52:26 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/root": {
+    "criteria": {
+      "crafting_table": "2025-08-25 01:52:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-08-25 01:51:47 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/cushion/cyan_cushion": {
+    "criteria": {
+      "has_planks": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "vc_gliders:recipes/transportation/paraglider_diamond": {
+    "criteria": {
+      "has_crafting_table": "2025-08-25 01:52:26 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_pike": {
+    "criteria": {
+      "has_wood": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/altar_inspiration": {
+    "criteria": {
+      "has_planks": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/oak_plank_dagger_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-08-25 01:52:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/spruce_plank_katana_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 01:52:23 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/cushion/red_cushion": {
+    "criteria": {
+      "has_planks": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/hunter/cross": {
+    "criteria": {
+      "has_planks": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/oak_plank_scythe_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/oak_plank_flail_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-08-25 01:49:46 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_arrow": {
+    "criteria": {
+      "has_bow": "2025-08-25 01:49:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-08-25 01:52:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-25 01:52:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/oak_window": {
+    "criteria": {
+      "has_ingredient": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/spruce_plank_great_hammer_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 01:52:23 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/oak_plank_spear_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/general/vampire_rack": {
+    "criteria": {
+      "has_planks": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-25 01:52:23 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/cushion/light_gray_cushion": {
+    "criteria": {
+      "has_planks": "2025-08-25 01:52:21 +0000"
     },
     "done": true
   },
