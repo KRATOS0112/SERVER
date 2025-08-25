@@ -9492,3 +9492,16 @@ java.lang.NullPointerException: Element not found: amount
 [25Aug2025 01:34:58.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [Suit Up]
 [25Aug2025 01:34:58.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [I Found It Underground]
 [25Aug2025 01:34:58.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [Apothic Affixes]
+[25Aug2025 01:35:28.888] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[25Aug2025 01:36:22.372] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: grillo1320 lost connection: Disconnected
+[25Aug2025 01:36:22.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 left the game
+[25Aug2025 01:37:13.254] [Worker-Main-30/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-223, y=0, z=119}
+[25Aug2025 01:38:55.120] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SUPATA123 moved wrongly!
+[25Aug2025 01:38:56.113] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SUPATA123 moved wrongly!
+[25Aug2025 01:38:59.110] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SUPATA123 moved wrongly!
+[25Aug2025 01:41:58.964] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SUPATA123 moved wrongly!
+[25Aug2025 01:42:51.141] [dimthread_server_overworld/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[25Aug2025 01:42:51.142] [dimthread_server_overworld/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[25Aug2025 01:43:14.270] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: grillo1320[/127.48.216.60:50743] logged in with entity id 5270 at (6.5, 119.0, -2.5)
+[25Aug2025 01:43:14.440] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player grillo1320
+[25Aug2025 01:43:14.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 joined the game
