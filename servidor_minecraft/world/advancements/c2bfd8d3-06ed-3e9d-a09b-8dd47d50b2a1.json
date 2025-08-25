@@ -2591,9 +2591,11 @@
       "floodplain": "2025-08-25 02:57:08 +0000",
       "jade_cliffs": "2025-08-25 02:30:05 +0000",
       "old_growth_woodland": "2025-08-25 03:01:26 +0000",
+      "orchard": "2025-08-25 03:16:47 +0000",
       "overgrown_greens": "2025-08-25 02:25:55 +0000",
       "mediterranean_forest": "2025-08-25 01:51:16 +0000",
       "redwood_forest": "2025-08-25 02:24:55 +0000",
+      "dune_beach": "2025-08-25 03:16:33 +0000",
       "volcano": "2025-08-25 02:29:57 +0000",
       "pasture": "2025-08-25 02:02:06 +0000",
       "lavender_field": "2025-08-25 01:51:36 +0000",
@@ -4225,8 +4227,10 @@
       "minecraft:sparse_jungle": "2025-08-25 02:57:33 +0000",
       "minecraft:lukewarm_ocean": "2025-08-25 02:53:33 +0000",
       "minecraft:river": "2025-08-25 02:39:15 +0000",
+      "minecraft:stony_shore": "2025-08-25 03:16:12 +0000",
       "minecraft:forest": "2025-08-25 02:58:35 +0000",
       "minecraft:jungle": "2025-08-25 02:28:17 +0000",
+      "minecraft:ocean": "2025-08-25 03:13:09 +0000",
       "minecraft:savanna": "2025-08-25 01:58:17 +0000",
       "minecraft:plains": "2025-08-25 02:58:12 +0000"
     },
@@ -4361,6 +4365,12 @@
   "apotheosis:affix/mythic_gem": {
     "criteria": {
       "gem": "2025-08-25 02:33:15 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_typhon": {
+    "criteria": {
+      "location0": "2025-08-25 03:14:54 +0000"
     },
     "done": true
   },
