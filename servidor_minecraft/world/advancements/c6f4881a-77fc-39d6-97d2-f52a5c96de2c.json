@@ -5255,6 +5255,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:savanna_plateau": "2025-08-25 02:29:29 +0000",
+      "minecraft:beach": "2025-08-25 02:53:33 +0000",
       "minecraft:river": "2025-08-25 02:24:03 +0000",
       "minecraft:savanna": "2025-08-25 01:58:19 +0000"
     },
@@ -5470,6 +5471,12 @@
     },
     "done": true
   },
+  "spartanshields:recipes/obsidian_basic_shield": {
+    "criteria": {
+      "has_obsidian": "2025-08-25 02:51:13 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/aether_saddle": {
     "criteria": {
       "has_leather": "2025-08-25 02:18:33 +0000"
@@ -5485,6 +5492,18 @@
   "travelersbackpack:recipes/misc/horse": {
     "criteria": {
       "has_leather": "2025-08-25 02:18:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2025-08-25 02:53:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-25 02:49:59 +0000"
     },
     "done": true
   },
@@ -5566,6 +5585,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_trident": {
+    "criteria": {
+      "has_item": "2025-08-25 02:53:11 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/quiver_compartment": {
     "criteria": {
       "has_leather": "2025-08-25 02:18:33 +0000"
@@ -5617,7 +5642,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "mutton": "2025-08-25 02:22:35 +0000",
-      "mushroom_stew": "2025-08-25 02:25:17 +0000"
+      "mushroom_stew": "2025-08-25 02:25:17 +0000",
+      "sweet_berries": "2025-08-25 02:50:36 +0000"
     },
     "done": false
   },
@@ -5660,6 +5686,12 @@
   "aether:recipes/combat/shield_repairing": {
     "criteria": {
       "has_shield": "2025-08-25 02:25:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-08-25 02:49:59 +0000"
     },
     "done": true
   },
@@ -5717,9 +5749,21 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/general/totem_base": {
+    "criteria": {
+      "has_obsidian": "2025-08-25 02:51:13 +0000"
+    },
+    "done": true
+  },
   "slashblade:root": {
     "criteria": {
       "attackTheEntity": "2025-08-25 02:14:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-25 02:49:59 +0000"
     },
     "done": true
   },
@@ -5747,9 +5791,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-08-25 02:51:13 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/shield_boots": {
     "criteria": {
       "has_shield": "2025-08-25 02:25:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-08-25 02:49:59 +0000"
     },
     "done": true
   },
@@ -5855,6 +5911,18 @@
     },
     "done": true
   },
+  "spartanshields:recipes/obsidian_tower_shield": {
+    "criteria": {
+      "has_obsidian": "2025-08-25 02:51:13 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/vampire_beacon": {
+    "criteria": {
+      "has_obsidian": "2025-08-25 02:51:13 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/shield_leggings": {
     "criteria": {
       "has_shield": "2025-08-25 02:25:30 +0000"
@@ -5885,15 +5953,33 @@
     },
     "done": true
   },
+  "aether:recipes/tools/flint_and_steel_repairing": {
+    "criteria": {
+      "has_flint_and_steel": "2025-08-25 02:51:16 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/conquistador_helmet": {
     "criteria": {
       "has_leather": "2025-08-25 02:18:33 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/combat/sea_serpent_arrow": {
+    "criteria": {
+      "has_item": "2025-08-25 02:53:11 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/path_leggings": {
     "criteria": {
       "has_leather": "2025-08-25 02:18:33 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/general/totem_top": {
+    "criteria": {
+      "has_obsidian": "2025-08-25 02:51:13 +0000"
     },
     "done": true
   },
@@ -5927,6 +6013,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-08-25 02:51:13 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/bolt": {
     "criteria": {
       "has_feather": "2025-08-25 02:14:27 +0000"
@@ -5936,6 +6028,12 @@
   "spartanweaponry:recipes/copper_bolt": {
     "criteria": {
       "has_feather": "2025-08-25 02:14:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-08-25 02:49:59 +0000"
     },
     "done": true
   },
