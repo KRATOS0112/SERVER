@@ -5476,6 +5476,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sweet_berries": "2025-08-25 02:43:37 +0000"
+    },
+    "done": false
+  },
   "travelersbackpack:recipes/misc/horse": {
     "criteria": {
       "has_leather": "2025-08-25 02:18:33 +0000"
@@ -5494,6 +5500,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-08-25 02:31:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-08-25 02:18:33 +0000"
@@ -5509,6 +5521,12 @@
   "knightquest:recipes/misc/conquistador_boots": {
     "criteria": {
       "has_leather": "2025-08-25 02:18:33 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/fox": {
+    "criteria": {
+      "has_sweet_berries": "2025-08-25 02:31:06 +0000"
     },
     "done": true
   },
@@ -5663,6 +5681,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/pig": {
+    "criteria": {
+      "has_porkchop": "2025-08-25 02:31:52 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/nether_salad": {
     "criteria": {
       "has_bowl": "2025-08-25 02:25:17 +0000"
@@ -5687,6 +5711,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-25 02:31:52 +0000"
+    },
+    "done": true
+  },
   "slashblade:root": {
     "criteria": {
       "attackTheEntity": "2025-08-25 02:14:09 +0000"
@@ -5708,6 +5738,12 @@
   "aether:recipes/misc/aether_gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_gloves": "2025-08-25 02:21:09 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/plant_oil": {
+    "criteria": {
+      "has_wheat_seeds": "2025-08-25 02:31:49 +0000"
     },
     "done": true
   },
@@ -5771,9 +5807,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-08-25 02:31:52 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/leather_quiver_conditional_shaped": {
     "criteria": {
       "has_item": "2025-08-25 02:18:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_bricks": {
+    "criteria": {
+      "has_packed_mud": "2025-08-25 02:35:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2025-08-25 02:31:06 +0000"
     },
     "done": true
   },
@@ -5792,6 +5846,12 @@
   "spartanweaponry:recipes/leather_longbow": {
     "criteria": {
       "has_leather": "2025-08-25 02:18:33 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/chainmail_helmet2": {
+    "criteria": {
+      "has_wheat_seeds": "2025-08-25 02:31:49 +0000"
     },
     "done": true
   },
@@ -5849,6 +5909,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/soap": {
+    "criteria": {
+      "has_porkchop": "2025-08-25 02:31:52 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/path_helmet": {
     "criteria": {
       "has_leather": "2025-08-25 02:18:33 +0000"
@@ -5903,6 +5969,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-25 02:31:52 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/diamond_bolt": {
     "criteria": {
       "has_feather": "2025-08-25 02:14:27 +0000"
@@ -5912,6 +5984,12 @@
   "aether:recipes/combat/golden_dart": {
     "criteria": {
       "has_feather": "2025-08-25 02:14:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-08-25 02:31:52 +0000"
     },
     "done": true
   },
@@ -5930,6 +6008,12 @@
   "travelersbackpack:recipes/misc/blank_upgrade": {
     "criteria": {
       "has_leather": "2025-08-25 02:18:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/acacia_cabinet": {
+    "criteria": {
+      "has_acacia_trapdoor": "2025-08-25 02:32:33 +0000"
     },
     "done": true
   },

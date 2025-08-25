@@ -9529,3 +9529,104 @@ java.lang.NullPointerException: Element not found: amount
 [25Aug2025 02:28:48.772] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2970ms or 59 ticks behind
 [25Aug2025 02:29:06.800] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3049ms or 60 ticks behind
 [25Aug2025 02:29:25.716] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3965ms or 79 ticks behind
+[25Aug2025 02:29:46.341] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5640ms or 112 ticks behind
+[25Aug2025 02:30:06.387] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5085ms or 101 ticks behind
+[25Aug2025 02:30:28.497] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7146ms or 142 ticks behind
+[25Aug2025 02:30:32.001] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[25Aug2025 02:30:35.983] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[25Aug2025 02:30:35.987] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[25Aug2025 02:30:35.988] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[25Aug2025 02:30:38.395] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[25Aug2025 02:30:38.396] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[25Aug2025 02:30:38.397] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[25Aug2025 02:30:38.638] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[25Aug2025 02:30:42.267] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[25Aug2025 02:30:42.268] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[25Aug2025 02:30:52.670] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9219ms or 184 ticks behind
+[25Aug2025 02:31:16.338] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8687ms or 173 ticks behind
+[25Aug2025 02:31:40.253] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8951ms or 179 ticks behind
+[25Aug2025 02:32:05.990] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10738ms or 214 ticks behind
+[25Aug2025 02:32:31.731] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10780ms or 215 ticks behind
+[25Aug2025 02:32:32.202] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[25Aug2025 02:32:33.835] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[25Aug2025 02:32:37.069] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[25Aug2025 02:32:42.184] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[25Aug2025 02:32:46.960] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[25Aug2025 02:32:55.610] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[25Aug2025 02:32:56.299] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9597ms or 191 ticks behind
+[25Aug2025 02:32:56.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [Knowledge of Death]
+[25Aug2025 02:32:56.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [A Strange Grave Dust]
+[25Aug2025 02:33:15.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [Not a Diamond]
+[25Aug2025 02:33:15.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has reached the goal [Flawless Crystals]
+[25Aug2025 02:33:20.568] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9317ms or 186 ticks behind
+[25Aug2025 02:33:44.842] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9290ms or 185 ticks behind
+[25Aug2025 02:34:05.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [Far From Perfect]
+[25Aug2025 02:34:09.039] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9238ms or 184 ticks behind
+[25Aug2025 02:34:32.668] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8667ms or 173 ticks behind
+[25Aug2025 02:34:58.215] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10564ms or 211 ticks behind
+[25Aug2025 02:35:08.498] [Server thread/WARN] [com.github.jarva.arsadditions.ArsAdditions/]: Running locate on server thread. If this causes lag please install Async Locator https://modrinth.com/mod/async-locator
+[25Aug2025 02:35:12.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [Ancient Gateway]
+[25Aug2025 02:35:27.435] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14234ms or 284 ticks behind
+[25Aug2025 02:35:41.876] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[25Aug2025 02:35:53.229] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10828ms or 216 ticks behind
+[25Aug2025 02:36:19.282] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11081ms or 221 ticks behind
+[25Aug2025 02:36:44.089] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9838ms or 196 ticks behind
+[25Aug2025 02:37:08.803] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9752ms or 195 ticks behind
+[25Aug2025 02:37:32.982] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9180ms or 183 ticks behind
+[25Aug2025 02:37:58.865] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10914ms or 218 ticks behind
+[25Aug2025 02:38:24.027] [dimthread_server_overworld/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[25Aug2025 02:38:24.028] [dimthread_server_overworld/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[25Aug2025 02:38:24.198] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10347ms or 206 ticks behind
+[25Aug2025 02:38:30.610] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[25Aug2025 02:38:33.043] [Server thread/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[25Aug2025 02:38:33.046] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[25Aug2025 02:38:36.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 tried to swim in lava to escape Nightmare Stalker
+[25Aug2025 02:38:36.673] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[25Aug2025 02:38:45.157] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6005ms or 120 ticks behind
+[25Aug2025 02:38:47.745] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Aug2025 02:38:47.746] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[25Aug2025 02:39:02.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <grillo1320> injugable
+[25Aug2025 02:39:05.943] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5791ms or 115 ticks behind
+[25Aug2025 02:39:28.685] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7783ms or 155 ticks behind
+[25Aug2025 02:39:52.516] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8865ms or 177 ticks behind
+[25Aug2025 02:40:16.434] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8932ms or 178 ticks behind
+[25Aug2025 02:40:39.769] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8367ms or 167 ticks behind
+[25Aug2025 02:41:04.726] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9975ms or 199 ticks behind
+[25Aug2025 02:41:29.527] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9826ms or 196 ticks behind
+[25Aug2025 02:41:53.589] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9087ms or 181 ticks behind
+[25Aug2025 02:42:16.700] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8149ms or 162 ticks behind
+[25Aug2025 02:42:38.814] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7162ms or 143 ticks behind
+[25Aug2025 02:42:58.269] [Server thread/WARN] [com.github.jarva.arsadditions.ArsAdditions/]: Running locate on server thread. If this causes lag please install Async Locator https://modrinth.com/mod/async-locator
+[25Aug2025 02:43:00.854] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7052ms or 141 ticks behind
+[25Aug2025 02:43:20.813] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4961ms or 99 ticks behind
+[25Aug2025 02:43:32.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SUPATA123> mañana no tienes clases a las 7 xd
+[25Aug2025 02:43:40.912] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5111ms or 102 ticks behind
+[25Aug2025 02:44:02.826] [Worker-Main-4/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[25Aug2025 02:44:02.827] [Worker-Main-4/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[25Aug2025 02:44:02.828] [Worker-Main-4/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[25Aug2025 02:44:02.890] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
+[25Aug2025 02:44:22.477] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4625ms or 92 ticks behind
+[25Aug2025 02:44:45.135] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7683ms or 153 ticks behind
+[25Aug2025 02:45:12.347] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12246ms or 244 ticks behind
+[25Aug2025 02:45:44.120] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16819ms or 336 ticks behind
+[25Aug2025 02:46:04.271] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{SUPATA123})
+[25Aug2025 02:46:15.854] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16753ms or 335 ticks behind
+[25Aug2025 02:46:47.406] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16555ms or 331 ticks behind
+[25Aug2025 02:47:17.746] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15344ms or 306 ticks behind
+[25Aug2025 02:47:45.118] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12417ms or 248 ticks behind
+[25Aug2025 02:48:11.045] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10944ms or 218 ticks behind
+[25Aug2025 02:48:42.821] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16820ms or 336 ticks behind
+[25Aug2025 02:48:49.573] [Worker-Main-4/WARN] [com.teamabnormals.blueprint.core.Blueprint/]: Received NBT for unknown Tracked Data: savage_and_ravage:invisible_due_to_mask
+[25Aug2025 02:48:49.577] [Worker-Main-4/WARN] [com.teamabnormals.blueprint.core.Blueprint/]: Received NBT for unknown Tracked Data: savage_and_ravage:invisible_due_to_mask
+[25Aug2025 02:48:49.584] [Worker-Main-4/WARN] [com.teamabnormals.blueprint.core.Blueprint/]: Received NBT for unknown Tracked Data: savage_and_ravage:invisible_due_to_mask
+[25Aug2025 02:48:49.750] [Worker-Main-4/WARN] [com.teamabnormals.blueprint.core.Blueprint/]: Received NBT for unknown Tracked Data: savage_and_ravage:invisible_due_to_mask
+[25Aug2025 02:48:49.752] [Worker-Main-4/WARN] [com.teamabnormals.blueprint.core.Blueprint/]: Received NBT for unknown Tracked Data: savage_and_ravage:invisible_due_to_mask
+[25Aug2025 02:48:49.753] [Worker-Main-4/WARN] [com.teamabnormals.blueprint.core.Blueprint/]: Received NBT for unknown Tracked Data: savage_and_ravage:invisible_due_to_mask
+[25Aug2025 02:48:55.944] [Worker-Main-4/WARN] [com.teamabnormals.blueprint.core.Blueprint/]: Received NBT for unknown Tracked Data: savage_and_ravage:invisible_due_to_mask
+[25Aug2025 02:48:55.959] [Worker-Main-3/WARN] [com.teamabnormals.blueprint.core.Blueprint/]: Received NBT for unknown Tracked Data: savage_and_ravage:invisible_due_to_mask
+[25Aug2025 02:48:55.960] [Worker-Main-3/WARN] [com.teamabnormals.blueprint.core.Blueprint/]: Received NBT for unknown Tracked Data: savage_and_ravage:invisible_due_to_mask
+[25Aug2025 02:48:55.961] [Worker-Main-3/WARN] [com.teamabnormals.blueprint.core.Blueprint/]: Received NBT for unknown Tracked Data: savage_and_ravage:invisible_due_to_mask
+[25Aug2025 02:48:55.961] [Worker-Main-3/WARN] [com.teamabnormals.blueprint.core.Blueprint/]: Received NBT for unknown Tracked Data: savage_and_ravage:invisible_due_to_mask
+[25Aug2025 02:48:55.962] [Worker-Main-3/WARN] [com.teamabnormals.blueprint.core.Blueprint/]: Received NBT for unknown Tracked Data: savage_and_ravage:invisible_due_to_mask
+[25Aug2025 02:49:13.189] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15387ms or 307 ticks behind
+[25Aug2025 02:49:41.661] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13509ms or 270 ticks behind
