@@ -4081,15 +4081,57 @@
     },
     "done": true
   },
-  "securitycraft:recipes/redstone/reinforced_jungle_fence_gate": {
+  "minecraft:recipes/misc/charcoal": {
     "criteria": {
-      "has_stick": "2025-08-25 01:35:05 +0000"
+      "has_log": "2025-08-25 01:34:46 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/willow_boat": {
+  "securitycraft:recipes/misc/sc_manual": {
     "criteria": {
-      "in_water": "2025-08-25 01:53:52 +0000"
+      "has_wood": "2025-08-25 01:34:46 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/stick": {
+    "criteria": {
+      "has_ingredient": "2025-08-25 01:34:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-08-25 01:34:46 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_club": {
+    "criteria": {
+      "has_wood_log": "2025-08-25 01:34:46 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/general/fire_place": {
+    "criteria": {
+      "has_logs": "2025-08-25 01:34:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-08-25 01:34:46 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_log": "2025-08-25 01:34:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_jungle_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-08-25 01:35:05 +0000"
     },
     "done": true
   },
@@ -4099,93 +4141,15 @@
     },
     "done": true
   },
-  "vc_gliders:recipes/transportation/paraglider_iron": {
-    "criteria": {
-      "has_crafting_table": "2025-08-25 01:37:21 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/flint_block": {
-    "criteria": {
-      "has_flint": "2025-08-25 02:00:01 +0000"
-    },
-    "done": true
-  },
-  "vc_gliders:recipes/misc/reinforced_paper": {
-    "criteria": {
-      "has_crafting_table": "2025-08-25 01:37:21 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/dead_boat": {
-    "criteria": {
-      "in_water": "2025-08-25 01:53:52 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/magic_boat": {
-    "criteria": {
-      "in_water": "2025-08-25 01:53:52 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/bow_repairing": {
-    "criteria": {
-      "has_bow": "2025-08-25 01:41:59 +0000"
-    },
-    "done": true
-  },
   "expanded_combat:recipes/combat/gold_stick_conditional_shaped": {
     "criteria": {
       "has_item": "2025-08-25 01:35:05 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/woodworthia_boat": {
-    "criteria": {
-      "in_water": "2025-08-25 01:53:52 +0000"
-    },
-    "done": true
-  },
-  "vc_gliders:recipes/transportation/paraglider_gold": {
-    "criteria": {
-      "has_crafting_table": "2025-08-25 01:37:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_slab": {
-    "criteria": {
-      "has_planks": "2025-08-25 01:37:15 +0000"
-    },
-    "done": true
-  },
-  "vc_gliders:recipes/transportation/paraglider_netherite": {
-    "criteria": {
-      "has_crafting_table": "2025-08-25 01:37:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_door": {
-    "criteria": {
-      "has_planks": "2025-08-25 01:37:15 +0000"
-    },
-    "done": true
-  },
-  "enderio:recipes/tools/dark_steel_sword": {
-    "criteria": {
-      "has_ingredient": "2025-08-25 01:59:55 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/redstone/reinforced_dark_oak_fence_gate": {
     "criteria": {
       "has_stick": "2025-08-25 01:35:05 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/pine_boat": {
-    "criteria": {
-      "in_water": "2025-08-25 01:53:52 +0000"
     },
     "done": true
   },
@@ -4219,18 +4183,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/heidiphyllum_boat": {
-    "criteria": {
-      "in_water": "2025-08-25 01:53:52 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/oak_plank_sickle_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-25 01:37:15 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/flags/flag_white": {
     "criteria": {
       "has_stick": "2025-08-25 01:35:05 +0000"
@@ -4243,99 +4195,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
-    "criteria": {
-      "has_golden_pickaxe": "2025-08-25 01:59:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/liriodendrites_boat": {
-    "criteria": {
-      "in_water": "2025-08-25 01:53:52 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/oak_plank_katana_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-25 01:37:15 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/mangrove_boat": {
-    "criteria": {
-      "in_water": "2025-08-25 01:53:52 +0000"
-    },
-    "done": true
-  },
   "enderio:recipes/misc/wood_gear": {
     "criteria": {
       "has_ingredient": "2025-08-25 01:35:05 +0000"
     },
     "done": true
   },
-  "aether_redux:recipes/transportation/fieldsproot_boat": {
-    "criteria": {
-      "in_water": "2025-08-25 01:53:52 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/barbecue_stick": {
-    "criteria": {
-      "has_tomato": "2025-08-25 01:58:25 +0000"
-    },
-    "done": true
-  },
-  "vc_gliders:recipes/misc/reinforced_paper_gold": {
-    "criteria": {
-      "has_crafting_table": "2025-08-25 01:37:21 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/redstone/reinforced_cherry_fence_gate": {
     "criteria": {
       "has_stick": "2025-08-25 01:35:05 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/redwood_boat": {
-    "criteria": {
-      "in_water": "2025-08-25 01:53:52 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_dispenser": {
-    "criteria": {
-      "has_bow": "2025-08-25 01:41:59 +0000"
-    },
-    "done": true
-  },
-  "vc_gliders:recipes/misc/reinforced_paper_iron": {
-    "criteria": {
-      "has_crafting_table": "2025-08-25 01:37:21 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/iron_arrow": {
-    "criteria": {
-      "has_bow": "2025-08-25 01:41:59 +0000"
-    },
-    "done": true
-  },
-  "enderio:recipes/tools/glider_wing": {
-    "criteria": {
-      "has_ingredient": "2025-08-25 01:59:55 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/wooden_arrow": {
-    "criteria": {
-      "has_bow": "2025-08-25 01:41:59 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/canopy_boat": {
-    "criteria": {
-      "in_water": "2025-08-25 01:53:52 +0000"
     },
     "done": true
   },
@@ -4351,39 +4219,9 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/palm_boat": {
-    "criteria": {
-      "in_water": "2025-08-25 01:53:52 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/empyreal_boat": {
-    "criteria": {
-      "in_water": "2025-08-25 01:53:52 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/redstone/reinforced_mangrove_fence_gate": {
     "criteria": {
       "has_stick": "2025-08-25 01:35:05 +0000"
-    },
-    "done": true
-  },
-  "upgrade_aquatic:recipes/transportation/river_boat": {
-    "criteria": {
-      "in_water": "2025-08-25 01:53:52 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/tomato_sauce": {
-    "criteria": {
-      "has_tomato": "2025-08-25 01:58:25 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/oak_plank_dancer_s_sword_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-25 01:37:15 +0000"
     },
     "done": true
   },
@@ -4399,21 +4237,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/fletching_table": {
-    "criteria": {
-      "has_flint": "2025-08-25 02:00:01 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/flags/flag_orange": {
     "criteria": {
       "has_stick": "2025-08-25 01:35:05 +0000"
-    },
-    "done": true
-  },
-  "enderio:recipes/building_blocks/dark_steel_trapdoor": {
-    "criteria": {
-      "has_ingredient": "2025-08-25 01:59:55 +0000"
     },
     "done": true
   },
@@ -4423,39 +4249,9 @@
     },
     "done": true
   },
-  "upgrade_aquatic:recipes/transportation/driftwood_boat": {
-    "criteria": {
-      "in_water": "2025-08-25 01:53:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/bamboo_raft": {
-    "criteria": {
-      "in_water": "2025-08-25 01:53:52 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/netherite_arrow": {
-    "criteria": {
-      "has_bow": "2025-08-25 01:41:59 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/misc/reinforced_acacia_fence": {
     "criteria": {
       "has_stick": "2025-08-25 01:35:05 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/golden_pickaxe_repairing": {
-    "criteria": {
-      "has_golden_pickaxe": "2025-08-25 01:59:58 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/building_blocks/tomato_crate": {
-    "criteria": {
-      "has_tomato": "2025-08-25 01:58:25 +0000"
     },
     "done": true
   },
@@ -4465,129 +4261,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/charcoal": {
-    "criteria": {
-      "has_log": "2025-08-25 01:34:46 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-08-25 01:35:05 +0000"
     },
     "done": true
   },
-  "spartanweaponry:recipes/copper_arrow": {
-    "criteria": {
-      "has_bow": "2025-08-25 01:41:59 +0000"
-    },
-    "done": true
-  },
-  "vc_gliders:recipes/misc/copper_upgrade": {
-    "criteria": {
-      "has_crafting_table": "2025-08-25 01:37:21 +0000"
-    },
-    "done": true
-  },
-  "celestisynth:recipes/decorations/starlit_factory_update_fix": {
-    "criteria": {
-      "has_item": "2025-08-25 01:37:21 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/misc/reinforced_birch_fence": {
     "criteria": {
       "has_stick": "2025-08-25 01:35:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/protojuniper_boat": {
-    "criteria": {
-      "in_water": "2025-08-25 01:53:52 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/steel_sword": {
-    "criteria": {
-      "has_iron_sword": "2025-08-25 01:41:59 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/sc_manual": {
-    "criteria": {
-      "has_wood": "2025-08-25 01:34:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/zamites_boat": {
-    "criteria": {
-      "in_water": "2025-08-25 01:53:52 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/golden_shovel_repairing": {
-    "criteria": {
-      "has_golden_shovel": "2025-08-25 02:00:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/schizolepidopsis_boat": {
-    "criteria": {
-      "in_water": "2025-08-25 01:53:52 +0000"
-    },
-    "done": true
-  },
-  "block_factorys_bosses:die_boss": {
-    "criteria": {
-      "die_boss_0": "2025-08-25 02:02:18 +0000"
-    },
-    "done": true
-  },
-  "aether_redux:recipes/transportation/blightwillow_boat": {
-    "criteria": {
-      "in_water": "2025-08-25 01:53:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_stairs": {
-    "criteria": {
-      "has_planks": "2025-08-25 01:37:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/oak_fence": {
-    "criteria": {
-      "has_planks": "2025-08-25 01:37:15 +0000"
-    },
-    "done": true
-  },
-  "enderio:recipes/tools/cold_fire_igniter": {
-    "criteria": {
-      "has_ingredient": "2025-08-25 01:59:55 +0000"
-    },
-    "done": true
-  },
-  "enderio:recipes/misc/stick": {
-    "criteria": {
-      "has_ingredient": "2025-08-25 01:34:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/czekanowskia_boat": {
-    "criteria": {
-      "in_water": "2025-08-25 01:53:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/birch_boat": {
-    "criteria": {
-      "in_water": "2025-08-25 01:53:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/oak_boat": {
-    "criteria": {
-      "in_water": "2025-08-25 01:53:52 +0000"
     },
     "done": true
   },
@@ -4603,51 +4285,9 @@
     },
     "done": true
   },
-  "aether_redux:recipes/transportation/cloudcap_boat": {
-    "criteria": {
-      "in_water": "2025-08-25 01:53:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_planks": {
-    "criteria": {
-      "has_logs": "2025-08-25 01:34:46 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/redstone/reinforced_warped_fence_gate": {
     "criteria": {
       "has_stick": "2025-08-25 01:35:05 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/oak_plank_great_hammer_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-25 01:37:15 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/transportation/dark_spruce_boat": {
-    "criteria": {
-      "in_water": "2025-08-25 01:53:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/protopiceoxylon_boat": {
-    "criteria": {
-      "in_water": "2025-08-25 01:53:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/araucaria_boat": {
-    "criteria": {
-      "in_water": "2025-08-25 01:53:52 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:root": {
-    "criteria": {
-      "crafting_table": "2025-08-25 01:37:21 +0000"
     },
     "done": true
   },
@@ -4663,27 +4303,9 @@
     },
     "done": true
   },
-  "enderio:recipes/building_blocks/dark_steel_ladder": {
-    "criteria": {
-      "has_ingredient": "2025-08-25 01:59:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:savanna": "2025-08-25 01:58:19 +0000"
-    },
-    "done": false
-  },
   "spartanweaponry:recipes/combat/simple_handle": {
     "criteria": {
       "has_stick": "2025-08-25 01:35:05 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/oak_plank_broad_sword_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-25 01:37:15 +0000"
     },
     "done": true
   },
@@ -4693,27 +4315,9 @@
     },
     "done": true
   },
-  "vc_gliders:recipes/misc/reinforced_paper_netherite": {
-    "criteria": {
-      "has_crafting_table": "2025-08-25 01:37:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/root": {
-    "criteria": {
-      "crafting_table": "2025-08-25 01:37:21 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/misc/reinforced_spruce_fence": {
     "criteria": {
       "has_stick": "2025-08-25 01:35:05 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/misc/purple_dye_from_lavender": {
-    "criteria": {
-      "has_lavender": "2025-08-25 01:54:22 +0000"
     },
     "done": true
   },
@@ -4729,45 +4333,9 @@
     },
     "done": true
   },
-  "vc_gliders:recipes/misc/reinforced_paper_diamond": {
-    "criteria": {
-      "has_crafting_table": "2025-08-25 01:37:21 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/redstone/reinforced_birch_fence_gate": {
     "criteria": {
       "has_stick": "2025-08-25 01:35:05 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/transportation/echo_boat": {
-    "criteria": {
-      "in_water": "2025-08-25 01:53:52 +0000"
-    },
-    "done": true
-  },
-  "enderio:recipes/misc/dark_steel_nugget": {
-    "criteria": {
-      "has_ingredient": "2025-08-25 01:59:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/trochodendroides_boat": {
-    "criteria": {
-      "in_water": "2025-08-25 01:53:52 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/transportation/skyroot_boat": {
-    "criteria": {
-      "in_water": "2025-08-25 01:53:52 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/transportation/bloom_boat": {
-    "criteria": {
-      "in_water": "2025-08-25 01:53:52 +0000"
     },
     "done": true
   },
@@ -4777,69 +4345,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/schilderia_boat": {
-    "criteria": {
-      "in_water": "2025-08-25 01:53:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/cherry_boat": {
-    "criteria": {
-      "in_water": "2025-08-25 01:53:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/agathoxylon_boat": {
-    "criteria": {
-      "in_water": "2025-08-25 01:53:52 +0000"
-    },
-    "done": true
-  },
-  "enderio:recipes/building_blocks/dark_steel_door": {
-    "criteria": {
-      "has_ingredient": "2025-08-25 01:59:55 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/baked_cod_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-08-25 01:58:25 +0000"
-    },
-    "done": true
-  },
-  "undead_revamp2:nightnight": {
-    "criteria": {
-      "nightnight_0": "2025-08-25 02:00:04 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/daub_cross_brace": {
     "criteria": {
       "forge:rods/wooden": "2025-08-25 01:35:05 +0000"
     },
     "done": true
   },
-  "spartanweaponry:recipes/wooden_club": {
-    "criteria": {
-      "has_wood_log": "2025-08-25 01:34:46 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/decorations/general/fire_place": {
-    "criteria": {
-      "has_logs": "2025-08-25 01:34:46 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/redstone/reinforced_bamboo_fence_gate": {
     "criteria": {
       "has_stick": "2025-08-25 01:35:05 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/iron_sword_repairing": {
-    "criteria": {
-      "has_iron_sword": "2025-08-25 01:41:59 +0000"
     },
     "done": true
   },
@@ -4855,33 +4369,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dispenser": {
-    "criteria": {
-      "has_bow": "2025-08-25 01:41:59 +0000"
-    },
-    "done": true
-  },
-  "naturescompass:natures_compass_sapling": {
-    "criteria": {
-      "has_sapling": "2025-08-25 01:37:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/acacia_boat": {
-    "criteria": {
-      "in_water": "2025-08-25 01:53:52 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/flags/flag_black": {
     "criteria": {
       "has_stick": "2025-08-25 01:35:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_planks": {
-    "criteria": {
-      "has_logs": "2025-08-25 01:37:04 +0000"
     },
     "done": true
   },
@@ -4903,27 +4393,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/jungle_boat": {
-    "criteria": {
-      "in_water": "2025-08-25 01:53:52 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/mining_boat": {
-    "criteria": {
-      "in_water": "2025-08-25 01:53:52 +0000"
-    },
-    "done": true
-  },
   "vampirism:recipes/combat/hunter/stake": {
     "criteria": {
       "has_sticks": "2025-08-25 01:35:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-08-25 01:37:15 +0000"
     },
     "done": true
   },
@@ -4933,33 +4405,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/brachyphyllum_boat": {
-    "criteria": {
-      "in_water": "2025-08-25 01:53:52 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/faucet": {
     "criteria": {
       "forge:rods/wooden": "2025-08-25 01:35:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/podozamites_boat": {
-    "criteria": {
-      "in_water": "2025-08-25 01:53:52 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/oak_plank_cutlass_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-25 01:37:15 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/fir_boat": {
-    "criteria": {
-      "in_water": "2025-08-25 01:53:52 +0000"
     },
     "done": true
   },
@@ -4975,57 +4423,9 @@
     },
     "done": true
   },
-  "expanded_combat:recipes/combat/oak_plank_battle_staff_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-25 01:37:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_wood": {
-    "criteria": {
-      "has_log": "2025-08-25 01:34:46 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/maple_boat": {
-    "criteria": {
-      "in_water": "2025-08-25 01:53:52 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/flags/flag_light_blue": {
     "criteria": {
       "has_stick": "2025-08-25 01:35:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/spruce_boat": {
-    "criteria": {
-      "in_water": "2025-08-25 01:53:52 +0000"
-    },
-    "done": true
-  },
-  "vc_gliders:recipes/transportation/paraglider_wood": {
-    "criteria": {
-      "has_crafting_table": "2025-08-25 01:37:21 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/oak_plank_claymore_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-25 01:37:15 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/transportation/cursed_spruce_boat": {
-    "criteria": {
-      "in_water": "2025-08-25 01:53:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/mangrove_boat": {
-    "criteria": {
-      "in_water": "2025-08-25 01:53:52 +0000"
     },
     "done": true
   },
@@ -5035,45 +4435,9 @@
     },
     "done": true
   },
-  "expanded_combat:recipes/combat/oak_plank_mace_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-25 01:37:15 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/combat/handle_from_wool": {
     "criteria": {
       "has_stick": "2025-08-25 01:35:05 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/hellbark_boat": {
-    "criteria": {
-      "in_water": "2025-08-25 01:53:52 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/jacaranda_boat": {
-    "criteria": {
-      "in_water": "2025-08-25 01:53:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/flint_and_steel": {
-    "criteria": {
-      "has_flint": "2025-08-25 02:00:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-08-25 01:37:15 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/ratatouille": {
-    "criteria": {
-      "has_any_ingredient": "2025-08-25 01:58:25 +0000"
     },
     "done": true
   },
@@ -5089,105 +4453,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/ginkgo_boat": {
-    "criteria": {
-      "in_water": "2025-08-25 01:53:52 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/sorting_boat": {
-    "criteria": {
-      "in_water": "2025-08-25 01:53:52 +0000"
-    },
-    "done": true
-  },
-  "aether_redux:recipes/transportation/glacia_boat": {
-    "criteria": {
-      "in_water": "2025-08-25 01:53:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/dark_oak_boat": {
-    "criteria": {
-      "in_water": "2025-08-25 01:53:52 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/oak_plank_glaive_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-25 01:37:15 +0000"
-    },
-    "done": true
-  },
-  "enderio:recipes/building_blocks/dark_steel_bars": {
-    "criteria": {
-      "has_ingredient": "2025-08-25 01:59:55 +0000"
-    },
-    "done": true
-  },
-  "enderio:recipes/misc/dark_steel_nugget_to_ingot": {
-    "criteria": {
-      "has_ingredient": "2025-08-25 01:59:55 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/crank": {
     "criteria": {
       "forge:rods/wooden": "2025-08-25 01:35:05 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/oak_sign": {
-    "criteria": {
-      "has_planks": "2025-08-25 01:37:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
-    "criteria": {
-      "has_golden_pickaxe": "2025-08-25 01:59:58 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/get_fd_seed": {
-    "criteria": {
-      "tomato_seeds": "2025-08-25 01:58:20 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/appliances/crafting_blueprint": {
-    "criteria": {
-      "has_item": "2025-08-25 01:37:21 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/combat/pole_from_leather": {
     "criteria": {
       "has_stick": "2025-08-25 01:35:05 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/umbran_boat": {
-    "criteria": {
-      "in_water": "2025-08-25 01:53:52 +0000"
-    },
-    "done": true
-  },
-  "enderio:recipes/building_blocks/dark_steel_pressure_plate": {
-    "criteria": {
-      "has_ingredient": "2025-08-25 01:59:55 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/wooden_pickaxe_repairing": {
-    "criteria": {
-      "has_wooden_pickaxe": "2025-08-25 01:37:40 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/squid_ink_pasta": {
-    "criteria": {
-      "has_any_ingredient": "2025-08-25 01:58:25 +0000"
     },
     "done": true
   },
@@ -5215,27 +4489,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/oak_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-08-25 01:37:15 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/misc/sonic_security_system": {
     "criteria": {
       "has_stick": "2025-08-25 01:35:05 +0000"
-    },
-    "done": true
-  },
-  "naturescompass:natures_compass_log": {
-    "criteria": {
-      "has_log": "2025-08-25 01:34:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/metasequoia_boat": {
-    "criteria": {
-      "in_water": "2025-08-25 01:53:52 +0000"
     },
     "done": true
   },
@@ -5251,21 +4507,297 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/blocks/crank": {
+    "criteria": {
+      "has_stick": "2025-08-25 01:35:05 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_brown": {
+    "criteria": {
+      "has_stick": "2025-08-25 01:35:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/flint_knife": {
+    "criteria": {
+      "has_stick": "2025-08-25 01:35:05 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_jungle_fence": {
+    "criteria": {
+      "has_stick": "2025-08-25 01:35:05 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_cherry_fence": {
+    "criteria": {
+      "has_stick": "2025-08-25 01:35:05 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/daub_frame": {
+    "criteria": {
+      "forge:rods/wooden": "2025-08-25 01:35:05 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_yellow": {
+    "criteria": {
+      "has_stick": "2025-08-25 01:35:05 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_sapling": "2025-08-25 01:37:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-08-25 01:37:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/plant_fiber": {
     "criteria": {
       "has_moss": "2025-08-25 01:37:04 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/root": {
+  "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
-      "killed_by_something": "2025-08-25 02:02:18 +0000"
+      "has_log": "2025-08-25 01:37:04 +0000"
     },
     "done": true
   },
-  "aether:recipes/decorations/skyroot_fletching_table": {
+  "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
-      "has_flint": "2025-08-25 02:00:01 +0000"
+      "has_planks": "2025-08-25 01:37:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-08-25 01:37:15 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/oak_plank_sickle_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 01:37:15 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/oak_plank_katana_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 01:37:15 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/oak_plank_dancer_s_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 01:37:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-25 01:37:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-08-25 01:37:15 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/oak_plank_great_hammer_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 01:37:15 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/oak_plank_broad_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 01:37:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-25 01:37:15 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/oak_plank_cutlass_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 01:37:15 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/oak_plank_battle_staff_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 01:37:15 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/oak_plank_claymore_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 01:37:15 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/oak_plank_mace_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 01:37:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-25 01:37:15 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/oak_plank_glaive_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 01:37:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-08-25 01:37:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-25 01:37:15 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/oak_plank_dagger_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 01:37:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-08-25 01:37:15 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/oak_plank_scythe_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 01:37:15 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/oak_plank_flail_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 01:37:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/oak_window": {
+    "criteria": {
+      "has_ingredient": "2025-08-25 01:37:15 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/oak_plank_spear_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-25 01:37:15 +0000"
+    },
+    "done": true
+  },
+  "vc_gliders:recipes/transportation/paraglider_iron": {
+    "criteria": {
+      "has_crafting_table": "2025-08-25 01:37:21 +0000"
+    },
+    "done": true
+  },
+  "vc_gliders:recipes/misc/reinforced_paper": {
+    "criteria": {
+      "has_crafting_table": "2025-08-25 01:37:21 +0000"
+    },
+    "done": true
+  },
+  "vc_gliders:recipes/transportation/paraglider_gold": {
+    "criteria": {
+      "has_crafting_table": "2025-08-25 01:37:21 +0000"
+    },
+    "done": true
+  },
+  "vc_gliders:recipes/transportation/paraglider_netherite": {
+    "criteria": {
+      "has_crafting_table": "2025-08-25 01:37:21 +0000"
+    },
+    "done": true
+  },
+  "vc_gliders:recipes/misc/reinforced_paper_gold": {
+    "criteria": {
+      "has_crafting_table": "2025-08-25 01:37:21 +0000"
+    },
+    "done": true
+  },
+  "vc_gliders:recipes/misc/reinforced_paper_iron": {
+    "criteria": {
+      "has_crafting_table": "2025-08-25 01:37:21 +0000"
+    },
+    "done": true
+  },
+  "vc_gliders:recipes/misc/copper_upgrade": {
+    "criteria": {
+      "has_crafting_table": "2025-08-25 01:37:21 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/decorations/starlit_factory_update_fix": {
+    "criteria": {
+      "has_item": "2025-08-25 01:37:21 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:root": {
+    "criteria": {
+      "crafting_table": "2025-08-25 01:37:21 +0000"
+    },
+    "done": true
+  },
+  "vc_gliders:recipes/misc/reinforced_paper_netherite": {
+    "criteria": {
+      "has_crafting_table": "2025-08-25 01:37:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-08-25 01:37:21 +0000"
+    },
+    "done": true
+  },
+  "vc_gliders:recipes/misc/reinforced_paper_diamond": {
+    "criteria": {
+      "has_crafting_table": "2025-08-25 01:37:21 +0000"
+    },
+    "done": true
+  },
+  "vc_gliders:recipes/transportation/paraglider_wood": {
+    "criteria": {
+      "has_crafting_table": "2025-08-25 01:37:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/crafting_blueprint": {
+    "criteria": {
+      "has_item": "2025-08-25 01:37:21 +0000"
     },
     "done": true
   },
@@ -5281,15 +4813,387 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_wood": {
+  "vc_gliders:recipes/transportation/paraglider_diamond": {
     "criteria": {
-      "has_log": "2025-08-25 01:37:04 +0000"
+      "has_crafting_table": "2025-08-25 01:37:21 +0000"
     },
     "done": true
   },
-  "ae2:recipes/misc/network/blocks/crank": {
+  "aether:recipes/tools/wooden_pickaxe_repairing": {
     "criteria": {
-      "has_stick": "2025-08-25 01:35:05 +0000"
+      "has_wooden_pickaxe": "2025-08-25 01:37:40 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/bow_repairing": {
+    "criteria": {
+      "has_bow": "2025-08-25 01:41:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2025-08-25 01:41:59 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_arrow": {
+    "criteria": {
+      "has_bow": "2025-08-25 01:41:59 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_arrow": {
+    "criteria": {
+      "has_bow": "2025-08-25 01:41:59 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/netherite_arrow": {
+    "criteria": {
+      "has_bow": "2025-08-25 01:41:59 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_arrow": {
+    "criteria": {
+      "has_bow": "2025-08-25 01:41:59 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/steel_sword": {
+    "criteria": {
+      "has_iron_sword": "2025-08-25 01:41:59 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_sword_repairing": {
+    "criteria": {
+      "has_iron_sword": "2025-08-25 01:41:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-08-25 01:41:59 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_arrow": {
+    "criteria": {
+      "has_bow": "2025-08-25 01:41:59 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2025-08-25 01:53:52 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_boat": {
+    "criteria": {
+      "in_water": "2025-08-25 01:53:52 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_boat": {
+    "criteria": {
+      "in_water": "2025-08-25 01:53:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/woodworthia_boat": {
+    "criteria": {
+      "in_water": "2025-08-25 01:53:52 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/pine_boat": {
+    "criteria": {
+      "in_water": "2025-08-25 01:53:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/heidiphyllum_boat": {
+    "criteria": {
+      "in_water": "2025-08-25 01:53:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/liriodendrites_boat": {
+    "criteria": {
+      "in_water": "2025-08-25 01:53:52 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-08-25 01:53:52 +0000"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/fieldsproot_boat": {
+    "criteria": {
+      "in_water": "2025-08-25 01:53:52 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2025-08-25 01:53:52 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/canopy_boat": {
+    "criteria": {
+      "in_water": "2025-08-25 01:53:52 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2025-08-25 01:53:52 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/empyreal_boat": {
+    "criteria": {
+      "in_water": "2025-08-25 01:53:52 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/transportation/river_boat": {
+    "criteria": {
+      "in_water": "2025-08-25 01:53:52 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/transportation/driftwood_boat": {
+    "criteria": {
+      "in_water": "2025-08-25 01:53:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-08-25 01:53:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/protojuniper_boat": {
+    "criteria": {
+      "in_water": "2025-08-25 01:53:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/zamites_boat": {
+    "criteria": {
+      "in_water": "2025-08-25 01:53:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/schizolepidopsis_boat": {
+    "criteria": {
+      "in_water": "2025-08-25 01:53:52 +0000"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/blightwillow_boat": {
+    "criteria": {
+      "in_water": "2025-08-25 01:53:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/czekanowskia_boat": {
+    "criteria": {
+      "in_water": "2025-08-25 01:53:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-08-25 01:53:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-08-25 01:53:52 +0000"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/cloudcap_boat": {
+    "criteria": {
+      "in_water": "2025-08-25 01:53:52 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/transportation/dark_spruce_boat": {
+    "criteria": {
+      "in_water": "2025-08-25 01:53:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/protopiceoxylon_boat": {
+    "criteria": {
+      "in_water": "2025-08-25 01:53:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/araucaria_boat": {
+    "criteria": {
+      "in_water": "2025-08-25 01:53:52 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/echo_boat": {
+    "criteria": {
+      "in_water": "2025-08-25 01:53:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/trochodendroides_boat": {
+    "criteria": {
+      "in_water": "2025-08-25 01:53:52 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/transportation/skyroot_boat": {
+    "criteria": {
+      "in_water": "2025-08-25 01:53:52 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/bloom_boat": {
+    "criteria": {
+      "in_water": "2025-08-25 01:53:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/schilderia_boat": {
+    "criteria": {
+      "in_water": "2025-08-25 01:53:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-08-25 01:53:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/agathoxylon_boat": {
+    "criteria": {
+      "in_water": "2025-08-25 01:53:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-08-25 01:53:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-08-25 01:53:52 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mining_boat": {
+    "criteria": {
+      "in_water": "2025-08-25 01:53:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/brachyphyllum_boat": {
+    "criteria": {
+      "in_water": "2025-08-25 01:53:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/podozamites_boat": {
+    "criteria": {
+      "in_water": "2025-08-25 01:53:52 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_boat": {
+    "criteria": {
+      "in_water": "2025-08-25 01:53:52 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/maple_boat": {
+    "criteria": {
+      "in_water": "2025-08-25 01:53:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-08-25 01:53:52 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/transportation/cursed_spruce_boat": {
+    "criteria": {
+      "in_water": "2025-08-25 01:53:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-08-25 01:53:52 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/hellbark_boat": {
+    "criteria": {
+      "in_water": "2025-08-25 01:53:52 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/jacaranda_boat": {
+    "criteria": {
+      "in_water": "2025-08-25 01:53:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/ginkgo_boat": {
+    "criteria": {
+      "in_water": "2025-08-25 01:53:52 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/sorting_boat": {
+    "criteria": {
+      "in_water": "2025-08-25 01:53:52 +0000"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/glacia_boat": {
+    "criteria": {
+      "in_water": "2025-08-25 01:53:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-08-25 01:53:52 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/umbran_boat": {
+    "criteria": {
+      "in_water": "2025-08-25 01:53:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/metasequoia_boat": {
+    "criteria": {
+      "in_water": "2025-08-25 01:53:52 +0000"
     },
     "done": true
   },
@@ -5317,69 +5221,9 @@
     },
     "done": true
   },
-  "vc_gliders:recipes/transportation/paraglider_diamond": {
-    "criteria": {
-      "has_crafting_table": "2025-08-25 01:37:21 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/flags/flag_brown": {
-    "criteria": {
-      "has_stick": "2025-08-25 01:35:05 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/combat/flint_knife": {
-    "criteria": {
-      "has_stick": "2025-08-25 01:35:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/arrow": {
-    "criteria": {
-      "has_flint": "2025-08-25 02:00:01 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/reinforced_jungle_fence": {
-    "criteria": {
-      "has_stick": "2025-08-25 01:35:05 +0000"
-    },
-    "done": true
-  },
   "twilightforest:recipes/transportation/transformation_boat": {
     "criteria": {
       "in_water": "2025-08-25 01:53:52 +0000"
-    },
-    "done": true
-  },
-  "enderio:recipes/misc/dark_steel_grinding_ball": {
-    "criteria": {
-      "has_ingredient": "2025-08-25 01:59:55 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/oak_plank_dagger_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-25 01:37:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_button": {
-    "criteria": {
-      "has_planks": "2025-08-25 01:37:15 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/reinforced_cherry_fence": {
-    "criteria": {
-      "has_stick": "2025-08-25 01:35:05 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/daub_frame": {
-    "criteria": {
-      "forge:rods/wooden": "2025-08-25 01:35:05 +0000"
     },
     "done": true
   },
@@ -5395,33 +5239,63 @@
     },
     "done": true
   },
-  "expanded_combat:recipes/combat/oak_plank_scythe_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-25 01:37:15 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/oak_plank_flail_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-08-25 01:37:15 +0000"
-    },
-    "done": true
-  },
   "aether_redux:recipes/transportation/jellyshroom_boat": {
     "criteria": {
       "in_water": "2025-08-25 01:53:52 +0000"
     },
     "done": true
   },
-  "supplementaries:recipes/flags/flag_yellow": {
+  "biomesoplenty:recipes/misc/purple_dye_from_lavender": {
     "criteria": {
-      "has_stick": "2025-08-25 01:35:05 +0000"
+      "has_lavender": "2025-08-25 01:54:22 +0000"
     },
     "done": true
   },
-  "spartanweaponry:recipes/diamond_arrow": {
+  "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "has_bow": "2025-08-25 01:41:59 +0000"
+      "minecraft:savanna": "2025-08-25 01:58:19 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "tomato_seeds": "2025-08-25 01:58:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_tomato": "2025-08-25 01:58:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/tomato_sauce": {
+    "criteria": {
+      "has_tomato": "2025-08-25 01:58:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2025-08-25 01:58:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-25 01:58:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-25 01:58:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-25 01:58:25 +0000"
     },
     "done": true
   },
@@ -5431,15 +5305,279 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/oak_window": {
+  "enderio:recipes/tools/dark_steel_sword": {
     "criteria": {
-      "has_ingredient": "2025-08-25 01:37:15 +0000"
+      "has_ingredient": "2025-08-25 01:59:55 +0000"
     },
     "done": true
   },
-  "expanded_combat:recipes/combat/oak_plank_spear_conditional_shaped": {
+  "enderio:recipes/tools/glider_wing": {
     "criteria": {
-      "has_item": "2025-08-25 01:37:15 +0000"
+      "has_ingredient": "2025-08-25 01:59:55 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/building_blocks/dark_steel_trapdoor": {
+    "criteria": {
+      "has_ingredient": "2025-08-25 01:59:55 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/tools/cold_fire_igniter": {
+    "criteria": {
+      "has_ingredient": "2025-08-25 01:59:55 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/building_blocks/dark_steel_ladder": {
+    "criteria": {
+      "has_ingredient": "2025-08-25 01:59:55 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/dark_steel_nugget": {
+    "criteria": {
+      "has_ingredient": "2025-08-25 01:59:55 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/building_blocks/dark_steel_door": {
+    "criteria": {
+      "has_ingredient": "2025-08-25 01:59:55 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/building_blocks/dark_steel_bars": {
+    "criteria": {
+      "has_ingredient": "2025-08-25 01:59:55 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/dark_steel_nugget_to_ingot": {
+    "criteria": {
+      "has_ingredient": "2025-08-25 01:59:55 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/building_blocks/dark_steel_pressure_plate": {
+    "criteria": {
+      "has_ingredient": "2025-08-25 01:59:55 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/dark_steel_grinding_ball": {
+    "criteria": {
+      "has_ingredient": "2025-08-25 01:59:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_pickaxe": "2025-08-25 01:59:58 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/golden_pickaxe_repairing": {
+    "criteria": {
+      "has_golden_pickaxe": "2025-08-25 01:59:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_pickaxe": "2025-08-25 01:59:58 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/golden_shovel_repairing": {
+    "criteria": {
+      "has_golden_shovel": "2025-08-25 02:00:00 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flint_block": {
+    "criteria": {
+      "has_flint": "2025-08-25 02:00:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-08-25 02:00:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-08-25 02:00:01 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_fletching_table": {
+    "criteria": {
+      "has_flint": "2025-08-25 02:00:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-08-25 02:00:01 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:nightnight": {
+    "criteria": {
+      "nightnight_0": "2025-08-25 02:00:04 +0000"
+    },
+    "done": true
+  },
+  "block_factorys_bosses:die_boss": {
+    "criteria": {
+      "die_boss_0": "2025-08-25 02:02:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-08-25 02:02:18 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/emu_dodge": {
+    "criteria": {
+      "ex": "2025-08-25 02:14:18 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/silver_chestplate": {
+    "criteria": {
+      "has_feather": "2025-08-25 02:14:27 +0000"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/combat/veridium_dart": {
+    "criteria": {
+      "has_feather": "2025-08-25 02:14:27 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/steel_axe": {
+    "criteria": {
+      "has_feather": "2025-08-25 02:14:27 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/silver_helmet": {
+    "criteria": {
+      "has_feather": "2025-08-25 02:14:27 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/chicken": {
+    "criteria": {
+      "has_feather": "2025-08-25 02:14:27 +0000"
+    },
+    "done": true
+  },
+  "slashblade:root": {
+    "criteria": {
+      "attackTheEntity": "2025-08-25 02:14:09 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/traveler_necklace": {
+    "criteria": {
+      "has_feather": "2025-08-25 02:14:27 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/emu": {
+    "criteria": {
+      "killed_by": "2025-08-25 02:14:09 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/magenta_dye_from_wildflower": {
+    "criteria": {
+      "has_wildflower": "2025-08-25 02:14:42 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2025-08-25 02:14:27 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cake": {
+    "criteria": {
+      "has_egg": "2025-08-25 02:14:03 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pancake_fd": {
+    "criteria": {
+      "forge:eggs": "2025-08-25 02:14:03 +0000"
+    },
+    "done": true
+  },
+  "knightquest:knightquest": {
+    "criteria": {
+      "requirement": "2025-08-25 02:14:43 +0000"
+    },
+    "done": true
+  },
+  "slashblade:material/proudsoul_tiny": {
+    "criteria": {
+      "BrokenBlade": "2025-08-25 02:14:09 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/combat/silent_quiver": {
+    "criteria": {
+      "has_feather": "2025-08-25 02:14:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/bolt": {
+    "criteria": {
+      "has_feather": "2025-08-25 02:14:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_bolt": {
+    "criteria": {
+      "has_feather": "2025-08-25 02:14:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-08-25 02:14:03 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_bolt": {
+    "criteria": {
+      "has_feather": "2025-08-25 02:14:27 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_dart": {
+    "criteria": {
+      "has_feather": "2025-08-25 02:14:27 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/silver_leggings": {
+    "criteria": {
+      "has_feather": "2025-08-25 02:14:27 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/silver_boots": {
+    "criteria": {
+      "has_feather": "2025-08-25 02:14:27 +0000"
     },
     "done": true
   },
