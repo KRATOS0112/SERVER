@@ -4044,5 +4044,41 @@
     },
     "done": true
   },
+  "supplementaries:recipes/bomb": {
+    "criteria": {
+      "has_tnt": "2025-08-24 23:27:07 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/creeper_chestplate": {
+    "criteria": {
+      "has_tnt": "2025-08-24 23:27:07 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/creeper_helmet": {
+    "criteria": {
+      "has_tnt": "2025-08-24 23:27:07 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/creeper_boots": {
+    "criteria": {
+      "has_tnt": "2025-08-24 23:27:07 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:recipes/bomb": {
+    "criteria": {
+      "has_item": "2025-08-24 23:27:07 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/creeper_leggings": {
+    "criteria": {
+      "has_tnt": "2025-08-24 23:27:07 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
