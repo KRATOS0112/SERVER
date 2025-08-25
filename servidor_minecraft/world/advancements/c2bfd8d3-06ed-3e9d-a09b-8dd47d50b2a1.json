@@ -2588,6 +2588,7 @@
     "criteria": {
       "scrubland": "2025-08-25 01:30:53 +0000",
       "mediterranean_forest": "2025-08-25 01:51:16 +0000",
+      "pasture": "2025-08-25 02:02:06 +0000",
       "lavender_field": "2025-08-25 01:51:36 +0000"
     },
     "done": false
@@ -2700,6 +2701,30 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_jungle_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-08-25 01:52:50 +0000"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/food/skyroot_milk_bucket_cake": {
+    "criteria": {
+      "has_quail_egg": "2025-08-25 01:57:56 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_magenta": {
+    "criteria": {
+      "has_stick": "2025-08-25 01:52:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-08-25 01:57:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-08-25 01:49:46 +0000"
@@ -2760,6 +2785,12 @@
     },
     "done": true
   },
+  "deep_aether:recipes/food/cake": {
+    "criteria": {
+      "has_quail_egg": "2025-08-25 01:57:56 +0000"
+    },
+    "done": true
+  },
   "vc_gliders:recipes/transportation/paraglider_netherite": {
     "criteria": {
       "has_crafting_table": "2025-08-25 01:52:26 +0000"
@@ -2769,6 +2800,12 @@
   "expanded_combat:recipes/combat/spruce_plank_dagger_conditional_shaped": {
     "criteria": {
       "has_item": "2025-08-25 01:52:23 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2025-08-25 02:01:43 +0000"
     },
     "done": true
   },
@@ -2790,15 +2827,69 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_dark_oak_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-08-25 01:52:50 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/combat/hunter/crucifix": {
     "criteria": {
       "planks": "2025-08-25 01:52:21 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2025-08-25 01:52:50 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_green": {
+    "criteria": {
+      "has_stick": "2025-08-25 01:52:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_dark_oak_fence": {
+    "criteria": {
+      "has_stick": "2025-08-25 01:52:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_oak_fence": {
+    "criteria": {
+      "has_stick": "2025-08-25 01:52:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_bamboo_fence": {
+    "criteria": {
+      "has_stick": "2025-08-25 01:52:50 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/oak_plank_sickle_conditional_shaped": {
     "criteria": {
       "has_item": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_white": {
+    "criteria": {
+      "has_stick": "2025-08-25 01:52:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-08-25 01:53:21 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/timber_cross_brace": {
+    "criteria": {
+      "forge:rods/wooden": "2025-08-25 01:52:50 +0000"
     },
     "done": true
   },
@@ -2826,9 +2917,33 @@
     },
     "done": true
   },
+  "enderio:recipes/misc/wood_gear": {
+    "criteria": {
+      "has_ingredient": "2025-08-25 01:52:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-08-25 01:53:21 +0000"
+    },
+    "done": true
+  },
   "vc_gliders:recipes/misc/reinforced_paper_gold": {
     "criteria": {
       "has_crafting_table": "2025-08-25 01:52:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_cherry_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-08-25 01:52:50 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/food/skyroot_milk_bucket_cake": {
+    "criteria": {
+      "has_egg": "2025-08-25 01:57:56 +0000"
     },
     "done": true
   },
@@ -2874,6 +2989,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2025-08-25 01:52:50 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_cyan": {
+    "criteria": {
+      "has_stick": "2025-08-25 01:52:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_mangrove_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-08-25 01:52:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2025-08-25 01:52:23 +0000"
@@ -2916,6 +3049,48 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_crimson_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-08-25 01:52:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/motion_activated_light": {
+    "criteria": {
+      "has_stick": "2025-08-25 01:52:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-08-25 01:53:21 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_orange": {
+    "criteria": {
+      "has_stick": "2025-08-25 01:52:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-08-25 01:53:21 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_spruce_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-08-25 01:52:50 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bomb": {
+    "criteria": {
+      "has_tnt": "2025-08-25 02:02:41 +0000"
+    },
+    "done": true
+  },
   "interiors:recipes/building_blocks/crafting/cushion/gray_cushion": {
     "criteria": {
       "has_planks": "2025-08-25 01:52:21 +0000"
@@ -2925,6 +3100,12 @@
   "spartanweaponry:recipes/netherite_arrow": {
     "criteria": {
       "has_bow": "2025-08-25 01:49:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_acacia_fence": {
+    "criteria": {
+      "has_stick": "2025-08-25 01:52:50 +0000"
     },
     "done": true
   },
@@ -2952,6 +3133,18 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/creeper_chestplate": {
+    "criteria": {
+      "has_tnt": "2025-08-25 02:02:41 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/wooden_fillet_knife": {
+    "criteria": {
+      "has_items": "2025-08-25 01:52:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-08-25 01:51:06 +0000"
@@ -2961,6 +3154,12 @@
   "spartanweaponry:recipes/wooden_boomerang": {
     "criteria": {
       "has_wood": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2025-08-25 01:52:50 +0000"
     },
     "done": true
   },
@@ -2985,6 +3184,12 @@
   "celestisynth:recipes/decorations/starlit_factory_update_fix": {
     "criteria": {
       "has_item": "2025-08-25 01:52:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_birch_fence": {
+    "criteria": {
+      "has_stick": "2025-08-25 01:52:50 +0000"
     },
     "done": true
   },
@@ -3018,6 +3223,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-08-25 01:53:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-08-25 01:53:21 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/wooden_glaive": {
     "criteria": {
       "has_wood": "2025-08-25 01:52:21 +0000"
@@ -3030,9 +3247,33 @@
     },
     "done": true
   },
+  "deep_aether:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_quail_egg": "2025-08-25 01:57:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-08-25 01:53:21 +0000"
+    },
+    "done": true
+  },
   "interiors:recipes/building_blocks/crafting/cushion/yellow_cushion": {
     "criteria": {
       "has_planks": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flower_box": {
+    "criteria": {
+      "has_dirt": "2025-08-25 02:00:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-08-25 01:53:21 +0000"
     },
     "done": true
   },
@@ -3066,9 +3307,39 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-25 01:57:56 +0000"
+    },
+    "done": true
+  },
+  "slashblade:root": {
+    "criteria": {
+      "attackTheEntity": "2025-08-25 02:02:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_acacia_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-08-25 01:52:50 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_blue": {
+    "criteria": {
+      "has_stick": "2025-08-25 01:52:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-08-25 01:51:06 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_warped_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-08-25 01:52:50 +0000"
     },
     "done": true
   },
@@ -3090,9 +3361,45 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/reinforced_mangrove_fence": {
+    "criteria": {
+      "has_stick": "2025-08-25 01:52:50 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_light_gray": {
+    "criteria": {
+      "has_stick": "2025-08-25 01:52:50 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/wooden_heavy_crossbow": {
     "criteria": {
       "has_wood": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/creeper_helmet": {
+    "criteria": {
+      "has_tnt": "2025-08-25 02:02:41 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/plant_oil": {
+    "criteria": {
+      "has_wheat_seeds": "2025-08-25 01:59:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:savanna": "2025-08-25 01:58:17 +0000"
+    },
+    "done": false
+  },
+  "spartanweaponry:recipes/combat/simple_handle": {
+    "criteria": {
+      "has_stick": "2025-08-25 01:52:50 +0000"
     },
     "done": true
   },
@@ -3105,6 +3412,12 @@
   "supplementaries:recipes/pulley": {
     "criteria": {
       "minecraft:planks": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/cutting_board": {
+    "criteria": {
+      "has_stick": "2025-08-25 01:52:50 +0000"
     },
     "done": true
   },
@@ -3126,9 +3439,39 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/reinforced_spruce_fence": {
+    "criteria": {
+      "has_stick": "2025-08-25 01:52:50 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_lime": {
+    "criteria": {
+      "has_stick": "2025-08-25 01:52:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-08-25 01:57:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-08-25 01:52:50 +0000"
+    },
+    "done": true
+  },
   "vc_gliders:recipes/misc/reinforced_paper_diamond": {
     "criteria": {
       "has_crafting_table": "2025-08-25 01:52:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_birch_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-08-25 01:52:50 +0000"
     },
     "done": true
   },
@@ -3144,6 +3487,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2025-08-25 01:52:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-08-25 01:52:21 +0000"
@@ -3153,6 +3502,18 @@
   "expanded_combat:recipes/combat/spruce_plank_scythe_conditional_shaped": {
     "criteria": {
       "has_item": "2025-08-25 01:52:23 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/creeper_boots": {
+    "criteria": {
+      "has_tnt": "2025-08-25 02:02:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-25 01:57:56 +0000"
     },
     "done": true
   },
@@ -3174,9 +3535,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/daub_cross_brace": {
+    "criteria": {
+      "forge:rods/wooden": "2025-08-25 01:52:50 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/wooden_club": {
     "criteria": {
       "has_wood_log": "2025-08-25 01:51:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-08-25 01:53:21 +0000"
     },
     "done": true
   },
@@ -3198,6 +3571,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_bamboo_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-08-25 01:52:50 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/spruce_plank_sickle_conditional_shaped": {
     "criteria": {
       "has_item": "2025-08-25 01:52:23 +0000"
@@ -3213,6 +3592,24 @@
   "interiors:recipes/building_blocks/crafting/cushion/black_cushion": {
     "criteria": {
       "has_planks": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-08-25 01:53:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2025-08-25 01:52:50 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/timber_brace": {
+    "criteria": {
+      "forge:rods/wooden": "2025-08-25 01:52:50 +0000"
     },
     "done": true
   },
@@ -3234,6 +3631,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/flags/flag_black": {
+    "criteria": {
+      "has_stick": "2025-08-25 01:52:50 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/wooden_flanged_mace": {
     "criteria": {
       "has_wood": "2025-08-25 01:52:21 +0000"
@@ -3246,6 +3649,60 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-08-25 01:53:21 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2025-08-25 02:01:49 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_oak_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-08-25 01:52:50 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_purple": {
+    "criteria": {
+      "has_stick": "2025-08-25 01:52:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-08-25 01:53:21 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cake": {
+    "criteria": {
+      "has_egg": "2025-08-25 01:57:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_crimson_fence": {
+    "criteria": {
+      "has_stick": "2025-08-25 01:52:50 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/chainmail_helmet2": {
+    "criteria": {
+      "has_wheat_seeds": "2025-08-25 01:59:39 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/hunter/stake": {
+    "criteria": {
+      "has_sticks": "2025-08-25 01:52:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-08-25 01:52:21 +0000"
@@ -3255,6 +3712,18 @@
   "spartanweaponry:recipes/wooden_lance": {
     "criteria": {
       "has_wood": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_gray": {
+    "criteria": {
+      "has_stick": "2025-08-25 01:52:50 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/faucet": {
+    "criteria": {
+      "forge:rods/wooden": "2025-08-25 01:52:50 +0000"
     },
     "done": true
   },
@@ -3273,6 +3742,18 @@
   "expanded_combat:recipes/combat/oak_plank_cutlass_conditional_shaped": {
     "criteria": {
       "has_item": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_warped_fence": {
+    "criteria": {
+      "has_stick": "2025-08-25 01:52:50 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/pole_from_wool": {
+    "criteria": {
+      "has_stick": "2025-08-25 01:52:50 +0000"
     },
     "done": true
   },
@@ -3300,6 +3781,18 @@
     },
     "done": true
   },
+  "supplementaries:recipes/flags/flag_light_blue": {
+    "criteria": {
+      "has_stick": "2025-08-25 01:52:50 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pancake_fd": {
+    "criteria": {
+      "forge:eggs": "2025-08-25 01:57:56 +0000"
+    },
+    "done": true
+  },
   "vc_gliders:recipes/transportation/paraglider_wood": {
     "criteria": {
       "has_crafting_table": "2025-08-25 01:52:26 +0000"
@@ -3324,9 +3817,27 @@
     },
     "done": true
   },
+  "supplementaries:recipes/daub_brace": {
+    "criteria": {
+      "forge:rods/wooden": "2025-08-25 01:52:50 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/oak_plank_mace_conditional_shaped": {
     "criteria": {
       "has_item": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/handle_from_wool": {
+    "criteria": {
+      "has_stick": "2025-08-25 01:52:50 +0000"
+    },
+    "done": true
+  },
+  "knightquest:knightquest": {
+    "criteria": {
+      "requirement": "2025-08-25 02:02:37 +0000"
     },
     "done": true
   },
@@ -3348,9 +3859,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-08-25 01:53:21 +0000"
+    },
+    "done": true
+  },
   "interiors:recipes/building_blocks/crafting/cushion/pink_cushion": {
     "criteria": {
       "has_planks": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/conduit_binder_composite": {
+    "criteria": {
+      "has_ingredient_gravel": "2025-08-25 01:53:21 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/pole_from_string": {
+    "criteria": {
+      "has_stick": "2025-08-25 01:52:50 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_red": {
+    "criteria": {
+      "has_stick": "2025-08-25 01:52:50 +0000"
     },
     "done": true
   },
@@ -3360,9 +3895,27 @@
     },
     "done": true
   },
+  "supplementaries:recipes/crank": {
+    "criteria": {
+      "forge:rods/wooden": "2025-08-25 01:52:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "slashblade:material/proudsoul_tiny": {
+    "criteria": {
+      "BrokenBlade": "2025-08-25 02:02:24 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2025-08-25 02:01:44 +0000"
     },
     "done": true
   },
@@ -3378,6 +3931,18 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "tomato_seeds": "2025-08-25 02:00:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-08-25 01:53:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/crafting_blueprint": {
     "criteria": {
       "has_item": "2025-08-25 01:52:26 +0000"
@@ -3387,6 +3952,24 @@
   "interiors:recipes/building_blocks/crafting/cushion/white_cushion": {
     "criteria": {
       "has_planks": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/pole_from_leather": {
+    "criteria": {
+      "has_stick": "2025-08-25 01:52:50 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-08-25 02:01:45 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/wooden_pickaxe_repairing": {
+    "criteria": {
+      "has_wooden_pickaxe": "2025-08-25 01:52:59 +0000"
     },
     "done": true
   },
@@ -3408,9 +3991,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-08-25 01:53:21 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/handle_from_leather": {
+    "criteria": {
+      "has_stick": "2025-08-25 01:52:50 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/wooden_warhammer": {
     "criteria": {
       "has_wood": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_pink": {
+    "criteria": {
+      "has_stick": "2025-08-25 01:52:50 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:recipes/bomb": {
+    "criteria": {
+      "has_item": "2025-08-25 02:02:41 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/timber_frame": {
+    "criteria": {
+      "forge:rods/wooden": "2025-08-25 01:52:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2025-08-25 01:52:50 +0000"
     },
     "done": true
   },
@@ -3423,6 +4042,12 @@
   "expanded_combat:recipes/combat/spruce_plank_glaive_conditional_shaped": {
     "criteria": {
       "has_item": "2025-08-25 01:52:23 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/sonic_security_system": {
+    "criteria": {
+      "has_stick": "2025-08-25 01:52:50 +0000"
     },
     "done": true
   },
@@ -3444,9 +4069,27 @@
     },
     "done": true
   },
+  "enderio:recipes/misc/wood_gear_corner": {
+    "criteria": {
+      "has_ingredient": "2025-08-25 01:52:50 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/slingshot": {
+    "criteria": {
+      "forge:rods/wooden": "2025-08-25 01:52:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/plant_fiber": {
     "criteria": {
       "has_moss": "2025-08-25 01:51:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-08-25 02:02:37 +0000"
     },
     "done": true
   },
@@ -3462,6 +4105,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-08-25 01:53:21 +0000"
+    },
+    "done": true
+  },
   "aquamirae:adventure/root": {
     "criteria": {
       "crafting_table": "2025-08-25 01:52:26 +0000"
@@ -3474,9 +4123,33 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/blocks/crank": {
+    "criteria": {
+      "has_stick": "2025-08-25 01:52:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-08-25 01:57:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-08-25 01:57:56 +0000"
+    },
+    "done": true
+  },
   "interiors:recipes/building_blocks/crafting/cushion/cyan_cushion": {
     "criteria": {
       "has_planks": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/creeper_leggings": {
+    "criteria": {
+      "has_tnt": "2025-08-25 02:02:41 +0000"
     },
     "done": true
   },
@@ -3486,9 +4159,27 @@
     },
     "done": true
   },
+  "supplementaries:recipes/flags/flag_brown": {
+    "criteria": {
+      "has_stick": "2025-08-25 01:52:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/flint_knife": {
+    "criteria": {
+      "has_stick": "2025-08-25 01:52:50 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/wooden_pike": {
     "criteria": {
       "has_wood": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_jungle_fence": {
+    "criteria": {
+      "has_stick": "2025-08-25 01:52:50 +0000"
     },
     "done": true
   },
@@ -3522,9 +4213,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/reinforced_cherry_fence": {
+    "criteria": {
+      "has_stick": "2025-08-25 01:52:50 +0000"
+    },
+    "done": true
+  },
   "interiors:recipes/building_blocks/crafting/cushion/red_cushion": {
     "criteria": {
       "has_planks": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/daub_frame": {
+    "criteria": {
+      "forge:rods/wooden": "2025-08-25 01:52:50 +0000"
     },
     "done": true
   },
@@ -3543,6 +4246,12 @@
   "expanded_combat:recipes/combat/oak_plank_flail_conditional_shaped": {
     "criteria": {
       "has_item": "2025-08-25 01:52:21 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_yellow": {
+    "criteria": {
+      "has_stick": "2025-08-25 01:52:50 +0000"
     },
     "done": true
   },
@@ -3567,6 +4276,12 @@
   "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
       "has_planks": "2025-08-25 01:52:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-08-25 01:53:21 +0000"
     },
     "done": true
   },
