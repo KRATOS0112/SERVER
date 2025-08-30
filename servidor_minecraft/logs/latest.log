@@ -9447,3 +9447,25 @@ java.lang.NullPointerException: Element not found: amount
 [30Aug2025 16:30:32.152] [Server thread/WARN] [ModernFix/]: Dedicated server took 89.822 seconds to load
 [30Aug2025 16:30:34.599] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
 [30Aug2025 16:35:34.160] [Server thread/INFO] [STDOUT/]: [teamrazor.aeroblender.Aeroblender:getAetherNamespacedRules:55]: com.google.common.collect.ImmutableMap$Builder@1e880c40
+[30Aug2025 17:01:02.429] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: grillo1320[/127.136.10.196:46117] logged in with entity id 2903 at (181.43109514288787, 64.0, -5698.7268932244915)
+[30Aug2025 17:01:02.507] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/multiplayer/PlayerInfo for invalid dist DEDICATED_SERVER
+[30Aug2025 17:01:02.508] [Server thread/ERROR] [ModernFix/]: Skipping entity ID sync for com.Polarice3.Goety.common.entities.ally.Doppelganger: java.lang.RuntimeException: Attempted to load class net/minecraft/client/multiplayer/PlayerInfo for invalid dist DEDICATED_SERVER
+[30Aug2025 17:01:02.783] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player grillo1320
+[30Aug2025 17:01:02.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 joined the game
+[30Aug2025 17:01:10.724] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8319ms or 166 ticks behind
+[30Aug2025 17:01:33.085] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7380ms or 147 ticks behind
+[30Aug2025 17:01:56.261] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8206ms or 164 ticks behind
+[30Aug2025 17:02:01.680] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[30Aug2025 17:02:03.165] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[30Aug2025 17:02:04.585] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[30Aug2025 17:02:06.032] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[30Aug2025 17:02:07.504] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[30Aug2025 17:02:08.883] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[30Aug2025 17:02:08.917] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[30Aug2025 17:02:17.807] [dimthread_server_overworld/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[30Aug2025 17:02:17.808] [dimthread_server_overworld/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[30Aug2025 17:02:17.894] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[30Aug2025 17:02:42.860] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[30Aug2025 17:03:12.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 was slain by Reaper
+[30Aug2025 17:04:55.557] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: grillo1320 lost connection: Disconnected
+[30Aug2025 17:04:55.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 left the game
